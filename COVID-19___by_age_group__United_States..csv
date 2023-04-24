@@ -1,0 +1,24 @@
+Condition Group,Condition,0-24 years,25-34 years,35-44 years,45-54 years,55-64 years,65-74 years,75-84 years,85 years and over
+Coronavirus Disease 2019,Coronavirus Disease 2019,174,780,1989,5546,13559,23511,29959,37488
+Respiratory diseases,Influenza and pneumonia,62,360,871,2552,6179,10351,12604,14069
+Respiratory diseases,Chronic lower respiratory diseases,10,40,82,278,1028,2169,2936,2852
+Respiratory diseases,Adult respiratory distress syndrome,41,155,413,1246,2648,4205,3991,3394
+Respiratory diseases,Respiratory failure,48,255,640,1922,4767,8564,10628,11501
+Respiratory diseases,Respiratory arrest,1,13,37,109,249,484,655,857
+Respiratory diseases,Other diseases of the respiratory system,7,23,55,166,412,726,1037,1298
+Circulatory diseases,Hypertensive diseases,10,66,275,957,2714,5250,6624,8286
+Circulatory diseases,Ischemic heart disease,2,7,48,252,1043,2374,3589,4808
+Circulatory diseases,Cardiac arrest,30,129,297,902,2053,3253,3751,4374
+Circulatory diseases,Cardiac arrhythmia,4,15,27,141,457,1105,1942,2985
+Circulatory diseases,Heart failure,2,26,39,165,587,1215,2002,3315
+Circulatory diseases,Cerebrovascular diseases,3,14,52,174,576,1169,1543,1790
+Circulatory diseases,Other diseases of the circulatory system,19,60,139,304,735,1243,1502,1921
+Sepsis,Sepsis,19,83,201,631,1574,2478,2442,1953
+Malignant neoplasms,Malignant neoplasms,11,20,60,170,638,1335,1544,1295
+Diabetes,Diabetes,23,108,344,1126,2636,4535,4549,3639
+Obesity,Obesity,35,162,335,571,798,741,405,133
+Alzheimer disease,Alzheimer disease,0,0,0,2,38,253,1089,2437
+Vascular and unspecified dementia,Vascular and unspecified dementia,0,0,1,14,206,1214,3886,8146
+Renal failure,Renal failure,9,76,171,597,1306,2289,2525,2381
+"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning and other adverse events",9,57,92,175,358,582,768,1134
+All other conditions and causes (residual),All other conditions and causes (residual),131,440,937,2697,6870,12071,14073,15887

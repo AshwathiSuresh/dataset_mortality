@@ -1,0 +1,5771 @@
+country,week,covid_deaths,non_covid_deaths
+United States,1,0,60180
+United States,2,0,60737
+United States,3,0,59366
+United States,4,0,59164
+United States,5,0,58835
+United States,6,0,59484
+United States,7,0,58818
+United States,8,0,58915
+United States,9,1,59334
+United States,10,20,59679
+United States,11,49,58626
+United States,12,533,58694
+United States,13,2970,60061
+United States,14,9208,63091
+United States,15,14894,64207
+United States,16,15260,61554
+United States,17,14917,58996
+United States,18,13161,56144
+United States,19,12053,54763
+United States,20,9824,54657
+United States,21,8275,53359
+United States,22,6512,53173
+United States,23,5745,53166
+United States,24,5008,53030
+United States,25,4152,53850
+United States,26,3875,54636
+United States,27,3666,56165
+United States,28,5434,56515
+United States,29,5550,57630
+United States,30,6536,57714
+United States,31,7832,56407
+United States,32,7370,56353
+United States,33,7122,56525
+United States,34,6047,56524
+United States,35,6241,54868
+United States,36,5811,54436
+United States,37,5068,54601
+United States,38,5281,54460
+United States,39,5344,55273
+United States,40,4901,54907
+United States,41,5120,56662
+United States,42,5146,55503
+United States,43,5754,56441
+United States,44,5979,57449
+United States,45,7283,60309
+United States,46,8111,60715
+United States,47,11092,60595
+United States,48,10770,62541
+United States,49,16014,61421
+United States,50,17820,64190
+United States,51,19257,63687
+United States,52,16263,68110
+United States,53,18890,68147
+United States,1,23023,64073
+United States,2,23386,64031
+United States,3,21648,62036
+United States,4,22049,57153
+United States,5,20948,55567
+United States,6,17303,54225
+United States,7,13216,56301
+United States,8,13854,52900
+United States,9,11626,52077
+United States,10,8475,53416
+United States,11,7296,53079
+United States,12,6705,54113
+United States,13,5642,53106
+United States,14,6850,54149
+United States,15,5067,54084
+United States,16,4965,55321
+United States,17,4882,54951
+United States,18,4617,54398
+United States,19,4048,54436
+United States,20,3821,54941
+United States,21,4456,52906
+United States,22,3271,54188
+United States,23,2449,54730
+United States,24,2047,55216
+United States,25,2106,54828
+United States,26,1641,55889
+United States,27,1665,55555
+United States,28,1889,55364
+United States,29,1914,56526
+United States,30,2676,57680
+United States,31,3506,60297
+United States,32,4704,62347
+United States,33,7262,62725
+United States,34,9208,63005
+United States,35,11195,62331
+United States,36,11914,61838
+United States,37,14142,59195
+United States,38,14645,57550
+United States,39,13739,57638
+United States,40,11670,57493
+United States,41,11696,55858
+United States,42,11591,55481
+United States,43,9301,57185
+United States,44,8542,58087
+United States,45,8484,58985
+United States,46,8112,58884
+United States,47,5771,62230
+United States,48,12208,57982
+United States,49,9167,62990
+United States,50,9349,62010
+United States,51,10442,61914
+United States,52,9505,64929
+United States,1,12286,67388
+United States,2,14387,70577
+United States,3,15243,70314
+United States,4,17641,67289
+United States,5,17534,63747
+United States,6,16878,60327
+United States,7,15578,55387
+United States,8,12239,53851
+United States,9,9999,54480
+United States,10,9050,52835
+United States,11,6958,53639
+United States,12,5445,53172
+United States,13,4759,53234
+United States,14,3876,53879
+United States,15,3136,54527
+United States,16,2673,54052
+United States,17,2400,54900
+United States,18,3901,53520
+United States,19,1868,55996
+United States,20,2461,55062
+United States,21,2607,54352
+United States,22,1956,55589
+United States,23,2770,54940
+Tunisia,1,0,1699
+Tunisia,2,0,1618
+Tunisia,3,0,1772
+Tunisia,4,0,1783
+Tunisia,5,0,1758
+Tunisia,6,0,1761
+Tunisia,7,0,1717
+Tunisia,8,0,1622
+Tunisia,9,0,1523
+Tunisia,10,0,1453
+Tunisia,11,0,1387
+Tunisia,12,3,1428
+Tunisia,13,5,1390
+Tunisia,14,14,1282
+Tunisia,15,9,1254
+Tunisia,16,7,1146
+Tunisia,17,0,1087
+Tunisia,18,4,1105
+Tunisia,19,3,1080
+Tunisia,20,0,1080
+Tunisia,21,3,1084
+Tunisia,22,0,1043
+Tunisia,23,1,1082
+Tunisia,24,0,1087
+Tunisia,25,1,1090
+Tunisia,26,0,1263
+Tunisia,27,0,1164
+Tunisia,28,0,1164
+Tunisia,29,0,1127
+Tunisia,30,0,1212
+Tunisia,31,1,1474
+Tunisia,32,0,1197
+Tunisia,33,3,1304
+Tunisia,34,17,1334
+Tunisia,35,5,1214
+Tunisia,36,17,1184
+Tunisia,37,14,1150
+Tunisia,38,52,1354
+Tunisia,39,55,1321
+Tunisia,40,107,1431
+Tunisia,41,157,1483
+Tunisia,42,148,1712
+Tunisia,43,193,1638
+Tunisia,44,529,1342
+Tunisia,45,525,1244
+Tunisia,46,472,1242
+Tunisia,47,476,1359
+Tunisia,48,398,1393
+Tunisia,49,342,1533
+Tunisia,50,333,1487
+Tunisia,51,264,1567
+Tunisia,52,308,1549
+Tunisia,1,415,1823
+Tunisia,2,477,1753
+Tunisia,3,542,1655
+Tunisia,4,520,1674
+Tunisia,5,460,1554
+Tunisia,6,330,1398
+Switzerland,1,0,1314
+Switzerland,2,0,1366
+Switzerland,3,0,1418
+Switzerland,4,0,1417
+Switzerland,5,0,1426
+Switzerland,6,0,1396
+Switzerland,7,0,1384
+Switzerland,8,0,1369
+Switzerland,9,0,1349
+Switzerland,10,2,1355
+Switzerland,11,20,1376
+Switzerland,12,91,1439
+Switzerland,13,263,1367
+Switzerland,14,395,1484
+Switzerland,15,370,1277
+Switzerland,16,250,1326
+Switzerland,17,203,1174
+Switzerland,18,101,1149
+Switzerland,19,59,1125
+Switzerland,20,18,1135
+Switzerland,21,18,1172
+Switzerland,22,6,1096
+Switzerland,23,2,1169
+Switzerland,24,4,1148
+Switzerland,25,4,1145
+Switzerland,26,2,1178
+Switzerland,27,2,1178
+Switzerland,28,3,1171
+Switzerland,29,2,1112
+Switzerland,30,8,1148
+Switzerland,31,5,1275
+Switzerland,32,5,1167
+Switzerland,33,5,1225
+Switzerland,34,5,1214
+Switzerland,35,4,1169
+Switzerland,36,10,1157
+Switzerland,37,13,1246
+Switzerland,38,20,1223
+Switzerland,39,14,1241
+Switzerland,40,10,1233
+Switzerland,41,16,1318
+Switzerland,42,51,1238
+Switzerland,43,140,1352
+Switzerland,44,316,1378
+Switzerland,45,557,1511
+Switzerland,46,664,1485
+Switzerland,47,663,1494
+Switzerland,48,625,1498
+Switzerland,49,638,1541
+Switzerland,50,651,1564
+Switzerland,51,677,1510
+Switzerland,52,624,1497
+Switzerland,53,549,1438
+Switzerland,1,439,1468
+Switzerland,2,396,1395
+Switzerland,3,352,1409
+Switzerland,4,251,1360
+Switzerland,5,193,1246
+Switzerland,6,224,1186
+Switzerland,7,93,1206
+Switzerland,8,70,1242
+Switzerland,9,58,1223
+Switzerland,10,69,1218
+Switzerland,11,59,1170
+Switzerland,12,62,1209
+Switzerland,13,67,1177
+Switzerland,14,70,1189
+Switzerland,15,45,1208
+Switzerland,16,58,1193
+Switzerland,17,67,1209
+Switzerland,18,47,1172
+Switzerland,19,29,1230
+Switzerland,20,37,1154
+Switzerland,21,26,1183
+Switzerland,22,22,1195
+Switzerland,23,17,1094
+Switzerland,24,15,1186
+Switzerland,25,9,1182
+Switzerland,26,3,1187
+Switzerland,27,2,1169
+Switzerland,28,2,1182
+Switzerland,29,4,1216
+Switzerland,30,12,1154
+Switzerland,31,4,1166
+Switzerland,32,15,1303
+Switzerland,33,28,1227
+Switzerland,34,42,1199
+Switzerland,35,44,1293
+Switzerland,36,29,1310
+Switzerland,37,48,1299
+Switzerland,38,43,1266
+Switzerland,39,50,1270
+Switzerland,40,34,1215
+Switzerland,41,38,1275
+Switzerland,42,27,1310
+Switzerland,43,52,1323
+Switzerland,44,40,1279
+Switzerland,45,52,1378
+Switzerland,46,56,1460
+Switzerland,47,89,1502
+Switzerland,48,122,1597
+Switzerland,49,158,1635
+Switzerland,50,165,1547
+Switzerland,51,153,1436
+Switzerland,52,162,1476
+Switzerland,1,163,1381
+Switzerland,2,120,1390
+Switzerland,3,117,1367
+Switzerland,4,98,1378
+Switzerland,5,102,1363
+Switzerland,6,150,1304
+Switzerland,7,80,1478
+Switzerland,8,66,1374
+Switzerland,9,94,1371
+Switzerland,10,93,1387
+Switzerland,11,157,1386
+Switzerland,12,84,1466
+Switzerland,13,66,1477
+Switzerland,14,34,1415
+Switzerland,15,40,1287
+Switzerland,16,29,1329
+Switzerland,17,36,1239
+Switzerland,18,14,1230
+Switzerland,19,55,1138
+Switzerland,20,10,1251
+Switzerland,21,4,1171
+Switzerland,22,10,1158
+Switzerland,23,10,1153
+Switzerland,24,3,1296
+Switzerland,25,5,1315
+Sweden,1,0,1874.5
+Sweden,2,0,1945.2
+Sweden,3,0,1885.2
+Sweden,4,0,1784.2
+Sweden,5,0,1900.3
+Sweden,6,0,1775.6
+Sweden,7,0,1871.6
+Sweden,8,0,1824.6
+Sweden,9,0,1825.5
+Sweden,10,0,1872.8
+Sweden,11,7,1769.8
+Sweden,12,53,1858.8
+Sweden,13,224,1862.8
+Sweden,14,349,2080.7
+Sweden,15,498,2117.7
+Sweden,16,641,1930.7
+Sweden,17,654,1661.7
+Sweden,18,485,1803.4
+Sweden,19,546,1689.1
+Sweden,20,454,1588.1
+Sweden,21,319,1652.1
+Sweden,22,397,1312.1
+Sweden,23,264,1538.1
+Sweden,24,215,1557.1
+Sweden,25,179,1542.1
+Sweden,26,227,1498.1
+Sweden,27,140,1479.8
+Sweden,28,106,1521.3
+Sweden,29,93,1476.3
+Sweden,30,78,1518.3
+Sweden,31,46,1554.1
+Sweden,32,23,1593.2
+Sweden,33,20,1542.2
+Sweden,34,27,1596.2
+Sweden,35,11,1520.2
+Sweden,36,22,1542.1
+Sweden,37,11,1563.4
+Sweden,38,19,1541.4
+Sweden,39,15,1595.4
+Sweden,40,15,1583.6
+Sweden,41,2,1595.7
+Sweden,42,24,1642.7
+Sweden,43,15,1609.7
+Sweden,44,11,1734.2
+Sweden,45,84,1640.1
+Sweden,46,142,1777.1
+Sweden,47,242,1798.1
+Sweden,48,275,1735.1
+Sweden,49,386,1817.7
+Sweden,50,447,1726.5
+Sweden,51,479,1876.5
+Sweden,52,286,2086.5
+Sweden,53,448,1985.7
+Sweden,1,706,1663.9
+Sweden,2,890,1462.9
+Sweden,3,682,1624.9
+Sweden,4,586,1543.9
+Sweden,5,524,1385.5
+Sweden,6,313,1604.5
+Sweden,7,221,1671.5
+Sweden,8,177,1685.5
+Sweden,9,177,1535.2
+Sweden,10,143,1716.2
+Sweden,11,116,1621.2
+Sweden,12,140,1630.2
+Sweden,13,96,1623.6
+Sweden,14,123,1628.1
+Sweden,15,167,1538.1
+Sweden,16,135,1601.1
+Sweden,17,125,1539.9
+Sweden,18,125,1601.1
+Sweden,19,102,1606.1
+Sweden,20,91,1506.1
+Sweden,21,85,1476.1
+Sweden,22,72,1488.7
+Sweden,23,51,1508.8
+Sweden,24,0,1518.8
+Sweden,25,45,1496.8
+Sweden,26,12,1524.9
+Sweden,27,12,1573
+Sweden,28,6,1603
+Sweden,29,5,1561
+Sweden,30,5,1634.5
+Sweden,31,2,1523.6
+Sweden,32,1,1631.6
+Sweden,33,10,1578.6
+Sweden,34,17,1588.6
+Sweden,35,7,1615.7
+Sweden,36,11,1650.2
+Sweden,37,72,1635.2
+Sweden,38,46,1632.2
+Sweden,39,47,1676.4
+Sweden,40,37,1624.3
+Sweden,41,51,1649.3
+Sweden,42,37,1704.3
+Sweden,43,32,1704.3
+Sweden,44,32,1801.5
+Sweden,45,25,1751.5
+Sweden,46,28,1758.5
+Sweden,47,35,1704.5
+Sweden,48,25,1802.5
+Sweden,49,21,1920.9
+Sweden,50,40,1878.9
+Sweden,51,34,1915.9
+Sweden,52,45,1999
+Sweden,1,67,2034.9
+Sweden,2,136,1933.9
+Sweden,3,161,1857.9
+Sweden,4,181,1913.9
+Sweden,5,325,1862.8
+Sweden,6,321,1686.7
+Sweden,7,351,1733.7
+Sweden,8,290,1697.7
+Sweden,9,370,1583.6
+Sweden,10,286,1524.2
+Sweden,11,255,1545.2
+Sweden,12,136,1630.2
+Sweden,13,176,1585.2
+Sweden,14,141,1655.9
+Sweden,15,99,1563.9
+Sweden,16,84,1570.9
+Sweden,17,83,1561.6
+Sweden,18,52,1638.2
+Sweden,19,73,1588.2
+Sweden,20,44,1667.2
+Sweden,21,36,1548.2
+Sweden,22,37,1556.7
+Sweden,23,35,1508.7
+Spain,1,0,8710
+Spain,2,0,9398
+Spain,3,0,9917
+Spain,4,0,9954
+Spain,5,0,9974
+Spain,6,0,9192
+Spain,7,0,8839
+Spain,8,0,8413
+Spain,9,0,8379
+Spain,10,17,8448
+Spain,11,272,9209
+Spain,12,1483,11360
+Spain,13,5031,14797
+Spain,14,5838,15129
+Spain,15,4568,12757
+Spain,16,3244,10000
+Spain,17,2737,7715
+Spain,18,2074,6934
+Spain,19,1357,7101
+Spain,20,942,6594
+Spain,21,1189,6454
+Spain,22,293,7327
+Spain,23,9,7135
+Spain,24,0,6849
+Spain,25,8,7024
+Spain,26,20,7492
+Spain,27,42,7593
+Spain,28,18,7714
+Spain,29,17,7545
+Spain,30,12,7815
+Spain,31,13,8576
+Spain,32,58,8336
+Spain,33,116,8054
+Spain,34,221,7665
+Spain,35,173,7781
+Spain,36,407,7370
+Spain,37,329,7669
+Spain,38,748,7420
+Spain,39,737,7327
+Spain,40,854,7334
+Spain,41,843,7750
+Spain,42,846,7748
+Spain,43,977,8493
+Spain,44,1126,8470
+Spain,45,2955,7361
+Spain,46,1936,8094
+Spain,47,1850,7845
+Spain,48,2049,7485
+Spain,49,1584,7957
+Spain,50,1372,8162
+Spain,51,1302,7985
+Spain,52,898,8117
+Spain,53,1013,8511
+Spain,1,1037,9442
+Spain,2,1440,10422
+Spain,3,2127,10823
+Spain,4,2878,9825
+Spain,5,3067,8510
+Spain,6,3361,7014
+Spain,7,2354,7135
+Spain,8,2041,6996
+Spain,9,1996,6550
+Spain,10,1120,7205
+Spain,11,652,7428
+Spain,12,2100,6099
+Spain,13,688,7512
+Spain,14,630,7449
+Spain,15,653,7305
+Spain,16,610,7484
+Spain,17,625,7242
+Spain,18,576,7491
+Spain,19,547,7197
+Spain,20,281,7334
+Spain,21,285,7153
+Spain,22,291,7064
+Spain,23,305,7408
+Spain,24,151,7656
+Spain,25,127,7159
+Spain,26,132,7423
+Spain,27,92,7451
+Spain,28,93,7471
+Spain,29,125,8354
+Spain,30,265,8102
+Spain,31,520,8122
+Spain,32,464,8392
+Spain,33,666,8093
+Spain,34,864,7355
+Spain,35,795,7144
+Spain,36,495,7405
+Spain,37,493,7019
+Spain,38,446,6989
+Spain,39,234,7321
+Spain,40,315,7214
+Spain,41,196,7394
+Spain,42,158,7587
+Spain,43,236,7946
+Spain,44,136,7683
+Spain,45,169,8554
+Spain,46,137,8649
+Spain,47,145,8703
+Spain,48,204,9173
+Spain,49,222,8790
+Spain,50,327,9162
+Spain,51,311,9469
+Spain,52,386,9441
+Spain,1,529,9404
+Spain,2,825,9867
+Spain,3,982,9866
+Spain,4,1225,10002
+Spain,5,1074,9815
+Spain,6,1955,8075
+Spain,7,2003,7262
+Spain,8,1412,7531
+Spain,9,1003,7624
+Spain,10,722,7783
+Spain,11,568,7962
+Spain,12,689,7847
+Spain,13,323,8171
+Spain,14,563,8138
+Spain,15,0,8689
+Spain,16,804,7574
+Spain,17,548,7953
+Spain,18,413,8049
+Spain,19,575,8202
+Spain,20,508,8320
+Spain,21,394,7540
+South Korea,1,0,6438
+South Korea,2,0,6320
+South Korea,3,0,6403
+South Korea,4,0,6490
+South Korea,5,0,6434
+South Korea,6,0,6431
+South Korea,7,0,6161
+South Korea,8,6,5964
+South Korea,9,11,6001
+South Korea,10,33,5928
+South Korea,11,25,5908
+South Korea,12,36,5802
+South Korea,13,41,5667
+South Korea,14,31,5618
+South Korea,15,31,5843
+South Korea,16,20,5725
+South Korea,17,9,5569
+South Korea,18,9,5973
+South Korea,19,4,5525
+South Korea,20,7,5430
+South Korea,21,4,5492
+South Korea,22,4,5386
+South Korea,23,2,5634
+South Korea,24,4,5536
+South Korea,25,3,5437
+South Korea,26,2,5433
+South Korea,27,2,5420
+South Korea,28,5,5205
+South Korea,29,7,5430
+South Korea,30,3,5519
+South Korea,31,2,5505
+South Korea,32,4,5417
+South Korea,33,0,5690
+South Korea,34,4,5950
+South Korea,35,15,5799
+South Korea,36,12,5605
+South Korea,37,27,5603
+South Korea,38,22,5711
+South Korea,39,21,5742
+South Korea,40,16,5760
+South Korea,41,11,5940
+South Korea,42,11,5873
+South Korea,43,13,6030
+South Korea,44,11,6070
+South Korea,45,12,6050
+South Korea,46,14,6015
+South Korea,47,15,5928
+South Korea,48,17,5785
+South Korea,49,23,6138
+South Korea,50,38,5989
+South Korea,51,111,5811
+South Korea,52,121,6017
+South Korea,53,162,6003
+South Korea,1,159,6061
+South Korea,2,124,6210
+South Korea,3,96,6093
+South Korea,4,65,5776
+South Korea,5,49,6025
+South Korea,6,53,5725
+South Korea,7,35,6040
+South Korea,8,43,5869
+South Korea,9,37,5913
+South Korea,10,33,6067
+South Korea,11,22,6013
+South Korea,12,29,5868
+South Korea,13,22,5898
+South Korea,14,22,5814
+South Korea,15,31,5907
+South Korea,16,16,5806
+South Korea,17,17,5749
+South Korea,18,41,5818
+South Korea,19,28,5915
+South Korea,20,31,5528
+South Korea,21,25,5755
+South Korea,22,15,5642
+South Korea,23,14,5693
+South Korea,24,16,5623
+South Korea,25,11,5712
+South Korea,26,13,5693
+South Korea,27,16,5672
+South Korea,28,14,5692
+South Korea,29,19,5857
+South Korea,30,22,5983
+South Korea,31,26,5875
+South Korea,32,42,5774
+South Korea,33,55,5798
+South Korea,34,62,5755
+South Korea,35,43,5796
+South Korea,36,33,5945
+South Korea,37,49,5918
+South Korea,38,47,5964
+South Korea,39,57,6036
+South Korea,40,70,6026
+South Korea,41,85,6033
+South Korea,42,105,6250
+South Korea,43,85,6470
+South Korea,44,122,6348
+South Korea,45,135,6353
+South Korea,46,183,6473
+South Korea,47,282,6398
+South Korea,48,313,6630
+South Korea,49,400,6660
+South Korea,50,483,6750
+South Korea,51,524,6708
+South Korea,52,430,6676
+South Korea,1,341,6466
+South Korea,2,262,6434
+South Korea,3,232,6440
+South Korea,4,190,6496
+South Korea,5,131,6460
+South Korea,6,216,6775
+South Korea,7,348,6666
+South Korea,8,608,7165
+South Korea,9,1038,7760
+South Korea,10,1499,8076
+South Korea,11,2162,8247
+South Korea,12,2429,8037
+South Korea,13,2267,7920
+South Korea,14,2226,7314
+South Korea,15,1545,7212
+South Korea,16,1019,6741
+South Korea,17,715,6253
+South Africa,1,0,10456
+South Africa,2,0,9678
+South Africa,3,0,9254
+South Africa,4,0,8626
+South Africa,5,0,9417
+South Africa,6,0,10095
+South Africa,7,0,9279
+South Africa,8,0,9312
+South Africa,9,0,9019
+South Africa,10,0,9837
+South Africa,11,0,9398
+South Africa,12,0,9118
+South Africa,13,1,9042
+South Africa,14,8,8764
+South Africa,15,16,8748
+South Africa,16,27,8590
+South Africa,17,34,8396
+South Africa,18,37,8443
+South Africa,19,63,8875
+South Africa,20,75,8994
+South Africa,21,146,9130
+South Africa,22,236,9581
+South Africa,23,309,10200
+South Africa,24,471,10537
+South Africa,25,454,11943
+South Africa,26,536,12452
+South Africa,27,613,13352
+South Africa,28,945,14296
+South Africa,29,977,15733
+South Africa,30,1707,14852
+South Africa,31,1498,14137
+South Africa,32,2057,12134
+South Africa,33,1467,11268
+South Africa,34,1310,11078
+South Africa,35,994,10560
+South Africa,36,798,10581
+South Africa,37,648,9837
+South Africa,38,513,9497
+South Africa,39,436,9823
+South Africa,40,562,9379
+South Africa,41,735,9784
+South Africa,42,735,9837
+South Africa,43,536,9914
+South Africa,44,332,9970
+South Africa,45,513,9966
+South Africa,46,417,10433
+South Africa,47,639,10105
+South Africa,48,594,10007
+South Africa,49,628,11251
+South Africa,50,1039,11765
+South Africa,51,1433,12888
+South Africa,52,1982,15542
+South Africa,53,2654,17580
+South Africa,1,3649,19861
+South Africa,2,4027,20926
+South Africa,3,3723,18081
+South Africa,4,3377,12441
+South Africa,5,2229,11603
+South Africa,6,1641,10541
+South Africa,7,1119,10321
+South Africa,8,1001,9716
+South Africa,9,706,10259
+South Africa,10,614,10305
+South Africa,11,821,9348
+South Africa,12,566,9606
+South Africa,13,306,10316
+South Africa,14,302,10545
+South Africa,15,455,10353
+South Africa,16,414,10223
+South Africa,17,281,10647
+South Africa,18,281,11191
+South Africa,19,496,11227
+South Africa,20,589,11184
+South Africa,21,591,11699
+South Africa,22,566,13001
+South Africa,23,777,13562
+South Africa,24,884,13060
+South Africa,25,1188,14537
+South Africa,26,1729,15622
+South Africa,27,2631,16252
+South Africa,28,2538,18828
+South Africa,29,2812,17588
+South Africa,30,2525,16549
+South Africa,31,2610,14832
+South Africa,32,2246,13401
+South Africa,33,2382,13399
+South Africa,34,2210,12676
+South Africa,35,1882,12821
+South Africa,36,1408,12276
+South Africa,37,1365,10809
+South Africa,38,885,10911
+South Africa,39,752,10406
+South Africa,40,539,10608
+South Africa,41,295,10736
+South Africa,42,327,10124
+South Africa,43,249,9800
+South Africa,44,156,10984
+South Africa,45,157,10813
+South Africa,46,96,10252
+South Africa,47,219,9944
+South Africa,48,174,11319
+South Africa,49,151,11157
+South Africa,50,229,11747
+South Africa,51,428,12906
+South Africa,52,425,13166
+South Africa,1,622,11817
+South Africa,2,907,10451
+South Africa,3,785,9575
+South Africa,4,1070,8757
+South Africa,5,912,9303
+South Africa,6,1168,8771
+South Africa,7,1632,7959
+South Africa,8,574,9175
+South Africa,9,352,9752
+South Africa,10,169,9916
+South Africa,11,167,9512
+South Africa,12,86,9726
+South Africa,13,67,10019
+South Africa,14,64,10015
+South Africa,15,48,10903
+South Africa,16,154,10252
+South Africa,17,65,10663
+South Africa,18,153,11375
+South Africa,19,237,11326
+South Africa,20,178,10938
+South Africa,21,211,11452
+South Africa,22,171,11835
+South Africa,23,164,12146
+South Africa,24,112,12280
+South Africa,25,138,11742
+South Africa,26,82,12128
+South Africa,27,67,11749
+South Africa,28,42,10920
+South Africa,29,25,11357
+Slovenia,1,0,420
+Slovenia,2,0,426
+Slovenia,3,0,430
+Slovenia,4,0,455
+Slovenia,5,0,476
+Slovenia,6,0,449
+Slovenia,7,0,502
+Slovenia,8,0,441
+Slovenia,9,0,431
+Slovenia,10,0,425
+Slovenia,11,1,436
+Slovenia,12,1,442
+Slovenia,13,9,381
+Slovenia,14,17,366
+Slovenia,15,25,399
+Slovenia,16,21,412
+Slovenia,17,8,384
+Slovenia,18,14,342
+Slovenia,19,6,375
+Slovenia,20,2,352
+Slovenia,21,3,402
+Slovenia,22,1,329
+Slovenia,23,1,344
+Slovenia,24,0,377
+Slovenia,25,0,374
+Slovenia,26,2,406
+Slovenia,27,0,371
+Slovenia,28,0,328
+Slovenia,29,1,351
+Slovenia,30,4,365
+Slovenia,31,4,389
+Slovenia,32,7,363
+Slovenia,33,2,390
+Slovenia,34,2,351
+Slovenia,35,2,339
+Slovenia,36,2,368
+Slovenia,37,0,393
+Slovenia,38,7,414
+Slovenia,39,5,349
+Slovenia,40,8,404
+Slovenia,41,12,403
+Slovenia,42,21,420
+Slovenia,43,52,462
+Slovenia,44,123,472
+Slovenia,45,191,433
+Slovenia,46,243,496
+Slovenia,47,255,476
+Slovenia,48,332,460
+Slovenia,49,360,441
+Slovenia,50,319,465
+Slovenia,51,290,427
+Slovenia,52,212,474
+Slovenia,53,238,422
+Slovenia,1,195,411
+Slovenia,2,182,442
+Slovenia,3,180,411
+Slovenia,4,143,387
+Slovenia,5,120,406
+Slovenia,6,94,341
+Slovenia,7,59,369
+Slovenia,8,60,410
+Slovenia,9,55,387
+Slovenia,10,43,401
+Slovenia,11,38,406
+Slovenia,12,46,378
+Slovenia,13,57,385
+Slovenia,14,44,362
+Slovenia,15,40,381
+Slovenia,16,49,409
+Slovenia,17,55,328
+Slovenia,18,30,360
+Slovenia,19,31,370
+Slovenia,20,29,379
+Slovenia,21,21,369
+Slovenia,22,14,400
+Slovenia,23,16,373
+Slovenia,24,8,388
+Slovenia,25,7,374
+Slovenia,26,0,383
+Slovenia,27,4,338
+Slovenia,28,2,337
+Slovenia,29,3,329
+Slovenia,30,1,374
+Slovenia,31,4,326
+Slovenia,32,0,353
+Slovenia,33,7,320
+Slovenia,34,8,326
+Slovenia,35,7,393
+Slovenia,36,14,404
+Slovenia,37,29,376
+Slovenia,38,39,384
+Slovenia,39,37,395
+Slovenia,40,39,373
+Slovenia,41,25,428
+Slovenia,42,45,426
+Slovenia,43,62,405
+Slovenia,44,85,461
+Slovenia,45,111,474
+Slovenia,46,122,465
+Slovenia,47,125,417
+Slovenia,48,115,474
+Slovenia,49,105,423
+Slovenia,50,88,412
+Slovenia,51,47,432
+Slovenia,52,60,433
+Slovenia,1,52,419
+Slovenia,2,43,448
+Slovenia,3,74,382
+Slovenia,4,85,391
+Slovenia,5,118,463
+Slovenia,6,106,433
+Slovenia,7,122,438
+Slovenia,8,89,373
+Slovenia,9,71,413
+Slovenia,10,47,428
+Slovenia,11,32,426
+Slovenia,12,33,395
+Slovenia,13,26,407
+Slovenia,14,34,392
+Slovenia,15,22,405
+Slovenia,16,21,414
+Slovenia,17,15,392
+Slovenia,18,18,365
+Slovenia,19,11,383
+Slovenia,20,7,380
+Slovenia,21,7,355
+Slovenia,22,6,372
+Slovenia,23,2,358
+Slovenia,24,2,346
+Slovakia,1,0,1147
+Slovakia,2,0,1109
+Slovakia,3,0,1086
+Slovakia,4,0,1107
+Slovakia,5,0,1159
+Slovakia,6,0,1101
+Slovakia,7,0,1181
+Slovakia,8,0,1088
+Slovakia,9,0,1152
+Slovakia,10,0,1131
+Slovakia,11,0,1122
+Slovakia,12,0,1187
+Slovakia,13,0,1054
+Slovakia,14,1,1080
+Slovakia,15,1,1002
+Slovakia,16,10,947
+Slovakia,17,6,971
+Slovakia,18,6,964
+Slovakia,19,2,1003
+Slovakia,20,2,977
+Slovakia,21,0,953
+Slovakia,22,0,913
+Slovakia,23,0,963
+Slovakia,24,0,981
+Slovakia,25,0,899
+Slovakia,26,0,937
+Slovakia,27,0,982
+Slovakia,28,0,973
+Slovakia,29,0,948
+Slovakia,30,0,957
+Slovakia,31,1,984
+Slovakia,32,2,1063
+Slovakia,33,0,963
+Slovakia,34,2,958
+Slovakia,35,0,1023
+Slovakia,36,4,965
+Slovakia,37,1,1033
+Slovakia,38,1,962
+Slovakia,39,5,1037
+Slovakia,40,11,1124
+Slovakia,41,6,1065
+Slovakia,42,27,1177
+Slovakia,43,71,1205
+Slovakia,44,60,1302
+Slovakia,45,132,1305
+Slovakia,46,159,1252
+Slovakia,47,161,1210
+Slovakia,48,145,1280
+Slovakia,49,180,1278
+Slovakia,50,179,1374
+Slovakia,51,380,1236
+Slovakia,52,218,1575
+Slovakia,53,544,1503
+Slovakia,1,601,1488
+Slovakia,2,556,1569
+Slovakia,3,594,1401
+Slovakia,4,574,1397
+Slovakia,5,557,1430
+Slovakia,6,686,1395
+Slovakia,7,620,1389
+Slovakia,8,684,1279
+Slovakia,9,647,1222
+Slovakia,10,692,1092
+Slovakia,11,516,1161
+Slovakia,12,452,1132
+Slovakia,13,529,938
+Slovakia,14,540,793
+Slovakia,15,541,768
+Slovakia,16,389,864
+Slovakia,17,271,895
+Slovakia,18,253,880
+Slovakia,19,205,921
+Slovakia,20,68,931
+Slovakia,21,47,915
+Slovakia,22,65,936
+Slovakia,23,35,965
+Slovakia,24,39,1009
+Slovakia,25,27,1063
+Slovakia,26,8,960
+Slovakia,27,6,982
+Slovakia,28,5,994
+Slovakia,29,10,886
+Slovakia,30,6,1021
+Slovakia,31,1,952
+Slovakia,32,3,971
+Slovakia,33,3,1008
+Slovakia,34,1,892
+Slovakia,35,1,995
+Slovakia,36,9,1032
+Slovakia,37,11,1131
+Slovakia,38,27,1127
+Slovakia,39,72,1031
+Slovakia,40,63,1151
+Slovakia,41,115,1087
+Slovakia,42,57,1252
+Slovakia,43,131,1319
+Slovakia,44,195,1310
+Slovakia,45,308,1367
+Slovakia,46,324,1530
+Slovakia,47,413,1510
+Slovakia,48,552,1370
+Slovakia,49,528,1369
+Slovakia,50,660,1098
+Slovakia,51,384,1212
+Slovakia,52,303,1189
+Slovakia,1,261,1146
+Slovakia,2,338,926
+Slovakia,3,343,873
+Slovakia,4,174,994
+Slovakia,5,141,1108
+Slovakia,6,137,1079
+Slovakia,7,145,1213
+Slovakia,8,213,1098
+Slovakia,9,234,1151
+Slovakia,10,231,1119
+Slovakia,11,192,1165
+Slovakia,12,160,1132
+Slovakia,13,147,1108
+Slovakia,14,156,1039
+Slovakia,15,168,905
+Slovakia,16,98,989
+Slovakia,17,40,1056
+Slovakia,18,99,928
+Slovakia,19,63,919
+Romania,1,0,5346
+Romania,2,0,5376
+Romania,3,0,5419
+Romania,4,0,5350
+Romania,5,0,5432
+Romania,6,0,5433
+Romania,7,0,5385
+Romania,8,0,5211
+Romania,9,0,5341
+Romania,10,0,5182
+Romania,11,0,5097
+Romania,12,3,5029
+Romania,13,40,5140
+Romania,14,108,5082
+Romania,15,165,5072
+Romania,16,135,4991
+Romania,17,168,4924
+Romania,18,171,4690
+Romania,19,171,4646
+Romania,20,146,4724
+Romania,21,78,4482
+Romania,22,81,4478
+Romania,23,67,4843
+Romania,24,77,5002
+Romania,25,102,4575
+Romania,26,100,4727
+Romania,27,138,5150
+Romania,28,134,4766
+Romania,29,142,4585
+Romania,30,161,4790
+Romania,31,226,5334
+Romania,32,287,5031
+Romania,33,291,4981
+Romania,34,281,4888
+Romania,35,306,4913
+Romania,36,315,4759
+Romania,37,270,4754
+Romania,38,272,4795
+Romania,39,283,4767
+Romania,40,285,5097
+Romania,41,408,5388
+Romania,42,461,5754
+Romania,43,519,5993
+Romania,44,676,6334
+Romania,45,812,6942
+Romania,46,1047,6945
+Romania,47,1121,7251
+Romania,48,1146,7369
+Romania,49,1127,7475
+Romania,50,1065,7107
+Romania,51,1009,6416
+Romania,52,836,6589
+Romania,53,749,6298
+Romania,1,675,6108
+Romania,2,567,5957
+Romania,3,555,6420
+Romania,4,559,5775
+Romania,5,546,5735
+Romania,6,485,5451
+Romania,7,481,5480
+Romania,8,503,5455
+Romania,9,550,5689
+Romania,10,583,5819
+Romania,11,725,6126
+Romania,12,906,6226
+Romania,13,956,6258
+Romania,14,1065,6115
+Romania,15,1097,6044
+Romania,16,1162,5607
+Romania,17,888,5597
+Romania,18,684,5202
+Romania,19,557,5039
+Romania,20,418,4873
+Romania,21,335,4626
+Romania,22,539,4300
+Romania,23,1019,3845
+Romania,24,492,4156
+Romania,25,927,4591
+Romania,26,675,4135
+Romania,27,289,4385
+Romania,28,36,4901
+Romania,29,15,4613
+Romania,30,18,4974
+Romania,31,30,4818
+Romania,32,32,4470
+Romania,33,64,4595
+Romania,34,116,4463
+Romania,35,161,4512
+Romania,36,301,5021
+Romania,37,524,5435
+Romania,38,827,5515
+Romania,39,1203,6251
+Romania,40,1876,7544
+Romania,41,2361,8436
+Romania,42,2898,8709
+Romania,43,3072,8251
+Romania,44,3004,7764
+Romania,45,2314,6561
+Romania,46,1890,6032
+Romania,47,1316,5605
+Romania,48,824,5402
+Romania,49,597,5295
+Romania,50,500,5204
+Romania,51,355,5454
+Romania,52,245,5372
+Romania,1,215,5573
+Romania,2,229,5553
+Romania,3,307,5694
+Romania,4,437,6128
+Romania,5,658,6711
+Romania,6,959,6747
+Romania,7,938,6695
+Romania,8,814,6062
+Romania,9,608,5725
+Romania,10,400,5635
+Romania,11,324,5292
+Romania,12,220,5363
+Romania,13,185,5568
+Romania,14,117,5118
+Romania,15,130,5047
+Romania,16,90,4763
+Romania,17,66,4878
+Romania,18,69,4505
+Romania,19,50,4649
+Romania,20,40,4423
+Romania,21,26,4199
+Portugal,1,0,2510
+Portugal,2,0,2665
+Portugal,3,0,2772
+Portugal,4,0,2671
+Portugal,5,0,2691
+Portugal,6,0,2490
+Portugal,7,0,2288
+Portugal,8,0,2360
+Portugal,9,0,2309
+Portugal,10,0,2182
+Portugal,11,0,2362
+Portugal,12,14,2426
+Portugal,13,105,2439
+Portugal,14,176,2478
+Portugal,15,209,2400
+Portugal,16,210,2180
+Portugal,17,189,2122
+Portugal,18,140,2034
+Portugal,19,92,2080
+Portugal,20,83,1974
+Portugal,21,98,1973
+Portugal,22,94,2241
+Portugal,23,69,1954
+Portugal,24,38,1833
+Portugal,25,13,1929
+Portugal,26,34,2087
+Portugal,27,50,2011
+Portugal,28,46,2190
+Portugal,29,29,2622
+Portugal,30,28,2412
+Portugal,31,21,2196
+Portugal,32,18,2072
+Portugal,33,22,1919
+Portugal,34,18,1996
+Portugal,35,23,2055
+Portugal,36,21,2040
+Portugal,37,27,2212
+Portugal,38,45,2082
+Portugal,39,41,1850
+Portugal,40,52,2090
+Portugal,41,75,2082
+Portugal,42,101,2115
+Portugal,43,135,2093
+Portugal,44,228,2246
+Portugal,45,352,2210
+Portugal,46,485,2253
+Portugal,47,516,2192
+Portugal,48,530,2171
+Portugal,49,536,2317
+Portugal,50,596,2435
+Portugal,51,575,2348
+Portugal,52,485,2316
+Portugal,53,499,2663
+Portugal,1,685,3151
+Portugal,2,1058,3560
+Portugal,3,1608,3436
+Portugal,4,2013,2805
+Portugal,5,1676,2297
+Portugal,6,1163,2231
+Portugal,7,641,2221
+Portugal,8,355,2180
+Portugal,9,223,2131
+Portugal,10,144,1994
+Portugal,11,84,2031
+Portugal,12,69,1988
+Portugal,13,42,2091
+Portugal,14,37,1959
+Portugal,15,29,1937
+Portugal,16,20,1896
+Portugal,17,12,1881
+Portugal,18,15,2031
+Portugal,19,15,1897
+Portugal,20,10,1828
+Portugal,21,6,1990
+Portugal,22,11,1873
+Portugal,23,13,1934
+Portugal,24,18,1969
+Portugal,25,19,1835
+Portugal,26,28,1926
+Portugal,27,44,1909
+Portugal,28,51,2007
+Portugal,29,85,1875
+Portugal,30,77,1902
+Portugal,31,98,1968
+Portugal,32,95,1994
+Portugal,33,77,2052
+Portugal,34,82,2013
+Portugal,35,77,2006
+Portugal,36,63,1931
+Portugal,37,46,1877
+Portugal,38,47,1987
+Portugal,39,39,1977
+Portugal,40,48,2082
+Portugal,41,56,2084
+Portugal,42,36,2015
+Portugal,43,24,2163
+Portugal,44,46,2089
+Portugal,45,54,2371
+Portugal,46,64,2406
+Portugal,47,96,2472
+Portugal,48,120,2621
+Portugal,49,121,2507
+Portugal,50,120,2384
+Portugal,51,96,2500
+Portugal,52,116,2423
+Portugal,1,123,2346
+Portugal,2,190,2365
+Portugal,3,266,2528
+Portugal,4,287,2503
+Portugal,5,366,2509
+Portugal,6,308,2394
+Portugal,7,301,2403
+Portugal,8,208,2265
+Portugal,9,160,2238
+Portugal,10,86,2360
+Portugal,11,123,2295
+Portugal,12,137,2305
+Portugal,13,171,2298
+Portugal,14,158,2256
+Portugal,15,119,2320
+Portugal,16,169,2137
+Portugal,17,118,2168
+Portugal,18,140,2079
+Portugal,19,163,2287
+Portugal,20,171,2182
+Portugal,21,227,2107
+Portugal,22,262,2123
+Portugal,23,288,2209
+Portugal,24,215,2451
+Portugal,25,267,1891
+Portugal,26,136,1978
+Poland,1,0,8463
+Poland,2,0,8242
+Poland,3,0,8059
+Poland,4,0,8015
+Poland,5,0,8560
+Poland,6,0,8343
+Poland,7,0,8624
+Poland,8,0,8474
+Poland,9,0,8471
+Poland,10,0,8364
+Poland,11,3,8407
+Poland,12,4,8318
+Poland,13,15,8133
+Poland,14,72,7919
+Poland,15,138,7858
+Poland,16,128,8056
+Poland,17,175,7568
+Poland,18,143,7614
+Poland,19,122,7459
+Poland,20,125,7433
+Poland,21,71,7475
+Poland,22,68,7564
+Poland,23,93,7715
+Poland,24,90,7650
+Poland,25,109,7286
+Poland,26,82,7293
+Poland,27,79,7578
+Poland,28,54,7255
+Poland,29,53,7452
+Poland,30,47,7522
+Poland,31,60,7727
+Poland,32,76,7876
+Poland,33,70,8001
+Poland,34,78,7869
+Poland,35,78,7365
+Poland,36,87,7470
+Poland,37,68,7636
+Poland,38,105,8126
+Poland,39,139,8080
+Poland,40,198,8215
+Poland,41,374,8813
+Poland,42,569,9662
+Poland,43,865,11499
+Poland,44,1345,13398
+Poland,45,2089,14155
+Poland,46,2476,13157
+Poland,47,3270,11558
+Poland,48,3411,10216
+Poland,49,3060,9922
+Poland,50,2775,9243
+Poland,51,2533,9146
+Poland,52,1721,10407
+Poland,53,2001,9774
+Poland,1,2070,9408
+Poland,2,2166,8808
+Poland,3,2008,9014
+Poland,4,1817,8580
+Poland,5,1907,7973
+Poland,6,1720,8207
+Poland,7,1364,8753
+Poland,8,1598,8296
+Poland,9,1516,8639
+Poland,10,1893,8942
+Poland,11,2122,9443
+Poland,12,2584,10021
+Poland,13,3057,10776
+Poland,14,3480,10317
+Poland,15,3611,9180
+Poland,16,3383,8613
+Poland,17,2653,8421
+Poland,18,1944,8140
+Poland,19,1652,8026
+Poland,20,1264,7415
+Poland,21,810,7423
+Poland,22,414,7743
+Poland,23,421,7716
+Poland,24,255,8092
+Poland,25,151,8208
+Poland,26,105,7438
+Poland,27,76,7581
+Poland,28,55,7828
+Poland,29,27,7325
+Poland,30,19,7806
+Poland,31,24,7368
+Poland,32,14,7565
+Poland,33,17,7393
+Poland,34,24,7380
+Poland,35,39,7366
+Poland,36,46,8032
+Poland,37,63,7767
+Poland,38,84,8003
+Poland,39,123,8021
+Poland,40,174,8304
+Poland,41,243,8297
+Poland,42,335,8521
+Poland,43,552,8938
+Poland,44,758,9163
+Poland,45,1110,9661
+Poland,46,1955,10085
+Poland,47,2215,10510
+Poland,48,2638,10748
+Poland,49,2804,10981
+Poland,50,3006,10825
+Poland,51,2842,10891
+Poland,52,3265,10276
+Poland,1,2150,9843
+Poland,2,2563,8214
+Poland,3,1539,8454
+Poland,4,1317,8837
+Poland,5,1436,9111
+Poland,6,1523,9163
+Poland,7,1697,8695
+Poland,8,1499,8317
+Poland,9,1229,7981
+Poland,10,898,8257
+Poland,11,775,7996
+Poland,12,610,8270
+Poland,13,517,8375
+Poland,14,290,8274
+Poland,15,203,8221
+Poland,16,110,8616
+Poland,17,111,8169
+Poland,18,79,8105
+Poland,19,69,7813
+Poland,20,61,7494
+Poland,21,43,7392
+Poland,22,38,7286
+Poland,23,22,7363
+Poland,24,22,6996
+Poland,25,24,6987
+Peru,1,0,2705.7
+Peru,2,0,2778
+Peru,3,0,2666.4
+Peru,4,0,2736.6
+Peru,5,0,2597.3
+Peru,6,0,2722.7
+Peru,7,0,2756.8
+Peru,8,0,2765.3
+Peru,9,0,2821.6
+Peru,10,2,2766.4
+Peru,11,3,2823.9
+Peru,12,29,2535.3
+Peru,13,61,2452.3
+Peru,14,222,2520.9
+Peru,15,529,2362.8
+Peru,16,940,2576.9
+Peru,17,1702,2723.9
+Peru,18,2516,2924.1
+Peru,19,3254,2980.3
+Peru,20,3577,3271.8
+Peru,21,3809,3430
+Peru,22,4066,3343.1
+Peru,23,4124,3402
+Peru,24,4176,3393.6
+Peru,25,4330,3063.2
+Peru,26,3530,3372
+Peru,27,3755,3217.1
+Peru,28,3903,3363.6
+Peru,29,4901,2665.4
+Peru,30,3480,4154.5
+Peru,31,4376,3332.9
+Peru,32,4433,3465.2
+Peru,33,4322,3164.7
+Peru,34,3786,3010.7
+Peru,35,3401,2813.1
+Peru,36,2674,2615.2
+Peru,37,2214,2598.9
+Peru,38,1889,2523.1
+Peru,39,1591,2385.2
+Peru,40,1213,2486.8
+Peru,41,1170,2438.3
+Peru,42,978,2505.9
+Peru,43,860,2572.9
+Peru,44,772,2472.7
+Peru,45,739,2595
+Peru,46,730,2582.8
+Peru,47,646,2573.2
+Peru,48,661,2478.5
+Peru,49,686,2496
+Peru,50,747,2556.2
+Peru,51,816,2696.7
+Peru,52,880,2747.5
+Peru,53,1082,2758.1
+Peru,1,1401,2838.8
+Peru,2,2027,2903.9
+Peru,3,2907,3160.4
+Peru,4,3900,3233.7
+Peru,5,4052,3415.6
+Peru,6,4761,3421
+Peru,7,5122,3088.7
+Peru,8,4757,3106.1
+Peru,9,4737,3241.9
+Peru,10,4296,3559.6
+Peru,11,4741,3162.5
+Peru,12,4994,3063.6
+Peru,13,5157,3249.3
+Peru,14,5460,3550.2
+Peru,15,5356,3612.7
+Peru,16,5963,2811.2
+Peru,17,4914,3272.3
+Peru,18,4983,2645.1
+Peru,19,4093,2856.8
+Peru,20,3409,3032.6
+Peru,21,2786,3200.6
+Peru,22,2682,2942.1
+Peru,23,2635,2387.3
+Peru,24,1494,3114.8
+Peru,25,1382,2896.1
+Peru,26,1646,2413.1
+Peru,27,1836,1994.5
+Peru,28,759,2786.6
+Peru,29,744,2716.6
+Peru,30,548,2817.9
+Peru,31,512,2748.7
+Peru,32,443,2870.8
+Peru,33,486,2635.4
+Peru,34,236,3069.3
+Peru,35,373,2805.8
+Peru,36,276,2795.4
+Peru,37,302,2769.4
+Peru,38,256,2876
+Peru,39,193,2872.1
+Peru,40,190,2972.9
+Peru,41,168,2905.6
+Peru,42,209,2840.1
+Peru,43,194,2782.8
+Peru,44,184,2944.9
+Peru,45,205,2820.7
+Peru,46,231,2746.9
+Peru,47,242,2824.1
+Peru,48,271,2898.3
+Peru,49,391,2879.3
+Peru,50,455,2722.8
+Peru,51,299,2989.3
+Peru,52,258,3266.3
+Peru,1,285,3390.3
+Peru,2,397,3536.7
+Peru,3,859,3648.8
+Peru,4,1182,3642.6
+Peru,5,1479,3241.4
+Peru,6,1397,2936.4
+Peru,7,1087,2757.4
+Peru,8,1070,2419.3
+Peru,9,570,2840.6
+Peru,10,438,2832.3
+Peru,11,319,2901.3
+Peru,12,263,2686.2
+Peru,13,200,2731.1
+Peru,14,158,2913.4
+Peru,15,144,2792.4
+Peru,16,112,2868
+Peru,17,99,2783.2
+Peru,18,105,2846.3
+Peru,19,94,3029.5
+Peru,20,93,2855.1
+Peru,21,67,3000.2
+Peru,22,86,3023.7
+Peru,23,65,3002.2
+Peru,24,65,3080.9
+Peru,25,73,3070.7
+Peru,26,89,3155.7
+Peru,27,134,3018.2
+Norway,1,0,862
+Norway,2,0,952
+Norway,3,0,837
+Norway,4,0,862
+Norway,5,0,815
+Norway,6,0,796
+Norway,7,0,855
+Norway,8,0,813
+Norway,9,0,836
+Norway,10,0,799
+Norway,11,3,823
+Norway,12,4,806
+Norway,13,18,836
+Norway,14,46,785
+Norway,15,57,783
+Norway,16,37,779
+Norway,17,36,741
+Norway,18,10,739
+Norway,19,8,734
+Norway,20,13,673
+Norway,21,3,737
+Norway,22,1,661
+Norway,23,2,675
+Norway,24,4,727
+Norway,25,2,737
+Norway,26,5,679
+Norway,27,2,695
+Norway,28,1,667
+Norway,29,3,751
+Norway,30,0,731
+Norway,31,0,746
+Norway,32,1,737
+Norway,33,5,729
+Norway,34,3,743
+Norway,35,0,699
+Norway,36,0,710
+Norway,37,1,784
+Norway,38,2,771
+Norway,39,3,740
+Norway,40,5,778
+Norway,41,0,743
+Norway,42,3,710
+Norway,43,1,795
+Norway,44,3,788
+Norway,45,3,774
+Norway,46,9,771
+Norway,47,12,788
+Norway,48,22,752
+Norway,49,26,762
+Norway,50,33,808
+Norway,51,17,806
+Norway,52,17,813
+Norway,53,15,825
+Norway,1,36,794
+Norway,2,45,823
+Norway,3,27,833
+Norway,4,20,831
+Norway,5,18,775
+Norway,6,10,803
+Norway,7,15,753
+Norway,8,15,741
+Norway,9,10,695
+Norway,10,7,783
+Norway,11,9,779
+Norway,12,8,761
+Norway,13,17,702
+Norway,14,11,767
+Norway,15,24,727
+Norway,16,28,724
+Norway,17,20,757
+Norway,18,11,684
+Norway,19,7,698
+Norway,20,7,733
+Norway,21,2,726
+Norway,22,2,723
+Norway,23,5,722
+Norway,24,1,684
+Norway,25,2,694
+Norway,26,2,717
+Norway,27,2,768
+Norway,28,0,716
+Norway,29,3,753
+Norway,30,0,744
+Norway,31,5,762
+Norway,32,4,773
+Norway,33,3,786
+Norway,34,3,782
+Norway,35,8,783
+Norway,36,5,781
+Norway,37,14,806
+Norway,38,9,808
+Norway,39,11,795
+Norway,40,10,794
+Norway,41,13,789
+Norway,42,10,836
+Norway,43,6,888
+Norway,44,22,896
+Norway,45,29,926
+Norway,46,49,867
+Norway,47,51,897
+Norway,48,43,925
+Norway,49,43,1004
+Norway,50,68,910
+Norway,51,53,915
+Norway,52,48,882
+Norway,1,45,913
+Norway,2,31,880
+Norway,3,33,790
+Norway,4,25,796
+Norway,5,28,893
+Norway,6,46,843
+Norway,7,35,870
+Norway,8,50,940
+Norway,9,66,904
+Norway,10,89,841
+Norway,11,73,918
+Norway,12,170,816
+Norway,13,179,715
+Norway,14,149,799
+Norway,15,116,746
+Norway,16,88,752
+Norway,17,61,775
+Norway,18,74,760
+Norway,19,55,774
+Norway,20,33,807
+Norway,21,47,697
+Norway,22,31,762
+Norway,23,38,730
+Norway,24,40,748
+Norway,25,30,846
+Norway,26,57,720
+Norway,27,78,733
+New Zealand,1,0,591
+New Zealand,2,0,581
+New Zealand,3,0,641
+New Zealand,4,0,609
+New Zealand,5,0,615
+New Zealand,6,0,588
+New Zealand,7,0,618
+New Zealand,8,0,622
+New Zealand,9,0,595
+New Zealand,10,0,611
+New Zealand,11,0,601
+New Zealand,12,0,619
+New Zealand,13,1,612
+New Zealand,14,3,625
+New Zealand,15,8,643
+New Zealand,16,6,657
+New Zealand,17,2,631
+New Zealand,18,1,560
+New Zealand,19,1,628
+New Zealand,20,0,617
+New Zealand,21,1,607
+New Zealand,22,0,603
+New Zealand,23,0,623
+New Zealand,24,0,643
+New Zealand,25,0,643
+New Zealand,26,0,621
+New Zealand,27,0,618
+New Zealand,28,0,617
+New Zealand,29,0,693
+New Zealand,30,0,683
+New Zealand,31,0,676
+New Zealand,32,0,643
+New Zealand,33,0,634
+New Zealand,34,0,655
+New Zealand,35,2,599
+New Zealand,36,0,630
+New Zealand,37,1,623
+New Zealand,38,0,605
+New Zealand,39,0,611
+New Zealand,40,0,651
+New Zealand,41,0,609
+New Zealand,42,0,615
+New Zealand,43,0,689
+New Zealand,44,0,584
+New Zealand,45,0,631
+New Zealand,46,0,586
+New Zealand,47,0,612
+New Zealand,48,0,650
+New Zealand,49,0,642
+New Zealand,50,0,639
+New Zealand,51,0,670
+New Zealand,52,0,625
+New Zealand,53,0,674
+New Zealand,1,1,667
+New Zealand,2,0,631
+New Zealand,3,0,659
+New Zealand,4,0,603
+New Zealand,5,1,641
+New Zealand,6,0,647
+New Zealand,7,0,591
+New Zealand,8,0,603
+New Zealand,9,0,640
+New Zealand,10,0,618
+New Zealand,11,0,630
+New Zealand,12,0,638
+New Zealand,13,0,679
+New Zealand,14,0,632
+New Zealand,15,0,629
+New Zealand,16,0,639
+New Zealand,17,0,687
+New Zealand,18,0,656
+New Zealand,19,0,638
+New Zealand,20,0,680
+New Zealand,21,0,658
+New Zealand,22,0,682
+New Zealand,23,0,683
+New Zealand,24,0,738
+New Zealand,25,0,664
+New Zealand,26,0,662
+New Zealand,27,0,743
+New Zealand,28,0,762
+New Zealand,29,0,754
+New Zealand,30,0,756
+New Zealand,31,0,780
+New Zealand,32,0,787
+New Zealand,33,0,770
+New Zealand,34,1,704
+New Zealand,35,0,734
+New Zealand,36,0,712
+New Zealand,37,0,644
+New Zealand,38,0,655
+New Zealand,39,1,645
+New Zealand,40,0,643
+New Zealand,41,0,650
+New Zealand,42,0,677
+New Zealand,43,1,637
+New Zealand,44,0,647
+New Zealand,45,5,657
+New Zealand,46,5,661
+New Zealand,47,0,635
+New Zealand,48,1,630
+New Zealand,49,1,663
+New Zealand,50,1,603
+New Zealand,51,4,699
+New Zealand,52,1,620
+New Zealand,1,2,675
+New Zealand,2,0,610
+New Zealand,3,1,632
+New Zealand,4,0,647
+New Zealand,5,0,661
+New Zealand,6,1,679
+New Zealand,7,11,631
+New Zealand,8,20,607
+New Zealand,9,34,649
+New Zealand,10,62,670
+New Zealand,11,93,683
+New Zealand,12,92,659
+New Zealand,13,69,682
+New Zealand,14,82,613
+New Zealand,15,86,672
+New Zealand,16,51,698
+New Zealand,17,61,650
+New Zealand,18,53,660
+New Zealand,19,47,746
+New Zealand,20,8,752
+New Zealand,21,85,725
+New Zealand,22,53,735
+New Zealand,23,50,721
+New Zealand,24,53,796
+New Zealand,25,60,754
+New Zealand,26,74,687
+Netherlands,1,0,3103
+Netherlands,2,0,3364
+Netherlands,3,0,3157
+Netherlands,4,0,3046
+Netherlands,5,0,3164
+Netherlands,6,0,3196
+Netherlands,7,0,3198
+Netherlands,8,0,2959
+Netherlands,9,0,3098
+Netherlands,10,3,3104
+Netherlands,11,17,3201
+Netherlands,12,159,3455
+Netherlands,13,592,3866
+Netherlands,14,999,4086
+Netherlands,15,976,4006
+Netherlands,16,948,3360
+Netherlands,17,794,3116
+Netherlands,18,581,2802
+Netherlands,19,386,2603
+Netherlands,20,240,2537
+Netherlands,21,142,2628
+Netherlands,22,134,2598
+Netherlands,23,57,2625
+Netherlands,24,46,2643
+Netherlands,25,31,2665
+Netherlands,26,15,2644
+Netherlands,27,22,2616
+Netherlands,28,11,2608
+Netherlands,29,3,2525
+Netherlands,30,23,2650
+Netherlands,31,9,2657
+Netherlands,32,9,2633
+Netherlands,33,15,3194
+Netherlands,34,28,2828
+Netherlands,35,24,2711
+Netherlands,36,21,2671
+Netherlands,37,11,2731
+Netherlands,38,26,2695
+Netherlands,39,97,2794
+Netherlands,40,80,2922
+Netherlands,41,130,2892
+Netherlands,42,167,3055
+Netherlands,43,295,3153
+Netherlands,44,388,3299
+Netherlands,45,571,3018
+Netherlands,46,483,3097
+Netherlands,47,406,2929
+Netherlands,48,458,2947
+Netherlands,49,339,3191
+Netherlands,50,361,3254
+Netherlands,51,443,3466
+Netherlands,52,507,3360
+Netherlands,53,615,3462
+Netherlands,1,749,3395
+Netherlands,2,645,3207
+Netherlands,3,534,3328
+Netherlands,4,458,3258
+Netherlands,5,405,3249
+Netherlands,6,413,3137
+Netherlands,7,401,3127
+Netherlands,8,346,2861
+Netherlands,9,270,2835
+Netherlands,10,236,3009
+Netherlands,11,206,2837
+Netherlands,12,190,2855
+Netherlands,13,157,3021
+Netherlands,14,149,3015
+Netherlands,15,145,2996
+Netherlands,16,133,3012
+Netherlands,17,123,3002
+Netherlands,18,151,2852
+Netherlands,19,126,2892
+Netherlands,20,95,2894
+Netherlands,21,78,2728
+Netherlands,22,58,2951
+Netherlands,23,35,2849
+Netherlands,24,16,2855
+Netherlands,25,16,2659
+Netherlands,26,15,2778
+Netherlands,27,10,2828
+Netherlands,28,11,2861
+Netherlands,29,24,2752
+Netherlands,30,29,2884
+Netherlands,31,40,2919
+Netherlands,32,46,2794
+Netherlands,33,46,2853
+Netherlands,34,50,2879
+Netherlands,35,49,2811
+Netherlands,36,31,3059
+Netherlands,37,48,2870
+Netherlands,38,40,2849
+Netherlands,39,35,3037
+Netherlands,40,25,3045
+Netherlands,41,46,3016
+Netherlands,42,70,3203
+Netherlands,43,97,3288
+Netherlands,44,150,3365
+Netherlands,45,173,3611
+Netherlands,46,232,3762
+Netherlands,47,351,3839
+Netherlands,48,351,4036
+Netherlands,49,444,3920
+Netherlands,50,356,3680
+Netherlands,51,248,3492
+Netherlands,52,241,3403
+Netherlands,1,123,3311
+Netherlands,2,75,3080
+Netherlands,3,59,3131
+Netherlands,4,62,3140
+Netherlands,5,62,3222
+Netherlands,6,66,3186
+Netherlands,7,89,3286
+Netherlands,8,65,3285
+Netherlands,9,64,3167
+Netherlands,10,95,3289
+Netherlands,11,86,3513
+Netherlands,12,106,3521
+Netherlands,13,115,3445
+Netherlands,14,85,3483
+Netherlands,15,63,3448
+Netherlands,16,60,3171
+Netherlands,17,32,3101
+Netherlands,18,23,3094
+Netherlands,19,18,3096
+Netherlands,20,13,3031
+Netherlands,21,12,2898
+Netherlands,22,8,2931
+Netherlands,23,6,2902
+Netherlands,24,11,2979
+Netherlands,25,11,3091
+Netherlands,26,27,3026
+Netherlands,27,24,2941
+Montenegro,1,0,86
+Montenegro,2,0,119
+Montenegro,3,0,145
+Montenegro,4,0,133
+Montenegro,5,0,139
+Montenegro,6,0,150
+Montenegro,7,0,130
+Montenegro,8,0,142
+Montenegro,9,0,119
+Montenegro,10,0,141
+Montenegro,11,0,113
+Montenegro,12,0,126
+Montenegro,13,1,149
+Montenegro,14,1,117
+Montenegro,15,1,122
+Montenegro,16,2,111
+Montenegro,17,2,99
+Montenegro,18,1,111
+Montenegro,19,1,94
+Montenegro,20,0,115
+Montenegro,21,0,113
+Montenegro,22,0,115
+Montenegro,23,0,112
+Montenegro,24,0,113
+Montenegro,25,0,101
+Montenegro,26,2,113
+Montenegro,27,3,151
+Montenegro,28,9,128
+Montenegro,29,9,137
+Montenegro,30,11,145
+Montenegro,31,8,143
+Montenegro,32,13,118
+Montenegro,33,13,99
+Montenegro,34,7,130
+Montenegro,35,14,125
+Montenegro,36,10,138
+Montenegro,37,12,112
+Montenegro,38,16,115
+Montenegro,39,22,132
+Montenegro,40,21,128
+Montenegro,41,23,124
+Montenegro,42,34,125
+Montenegro,43,30,153
+Montenegro,44,47,129
+Montenegro,45,24,150
+Montenegro,46,54,110
+Montenegro,47,48,152
+Montenegro,48,48,121
+Montenegro,49,46,121
+Montenegro,50,49,114
+Montenegro,51,44,152
+Montenegro,52,40,152
+Montenegro,53,23,217
+Montenegro,1,36,163
+Montenegro,2,20,158
+Montenegro,3,23,171
+Montenegro,4,37,136
+Montenegro,5,33,170
+Montenegro,6,52,153
+Montenegro,7,60,151
+Montenegro,8,53,167
+Montenegro,9,64,156
+Montenegro,10,62,150
+Montenegro,11,70,161
+Montenegro,12,46,138
+Montenegro,13,60,162
+Montenegro,14,68,129
+Montenegro,15,56,130
+Montenegro,16,36,157
+Montenegro,17,40,148
+Montenegro,18,35,119
+Montenegro,19,21,145
+Montenegro,20,13,143
+Montenegro,21,9,101
+Montenegro,22,9,134
+Montenegro,23,9,87
+Montenegro,24,4,132
+Montenegro,25,4,120
+Montenegro,26,6,125
+Montenegro,27,5,132
+Montenegro,28,3,113
+Montenegro,29,1,129
+Montenegro,30,6,141
+Montenegro,31,5,131
+Montenegro,32,9,173
+Montenegro,33,27,140
+Montenegro,34,45,132
+Montenegro,35,41,127
+Montenegro,36,43,133
+Montenegro,37,49,141
+Montenegro,38,46,139
+Montenegro,39,39,145
+Montenegro,40,52,119
+Montenegro,41,37,161
+Montenegro,42,42,124
+Montenegro,43,38,151
+Mexico,1,0,16742
+Mexico,2,0,16899
+Mexico,3,0,16386
+Mexico,4,0,15793
+Mexico,5,0,15415
+Mexico,6,0,15882
+Mexico,7,0,15065
+Mexico,8,0,14663
+Mexico,9,0,14085
+Mexico,10,0,14189
+Mexico,11,0,13951
+Mexico,12,3,13263
+Mexico,13,17,13766
+Mexico,14,74,13528
+Mexico,15,202,13909
+Mexico,16,390,14693
+Mexico,17,665,16503
+Mexico,18,803,18102
+Mexico,19,1311,19401
+Mexico,20,1712,20710
+Mexico,21,2217,21117
+Mexico,22,2536,20751
+Mexico,23,3769,20531
+Mexico,24,3442,21476
+Mexico,25,4684,20554
+Mexico,26,4823,20142
+Mexico,27,3991,21787
+Mexico,28,4367,22367
+Mexico,29,4178,22507
+Mexico,30,4496,21472
+Mexico,31,4066,20907
+Mexico,32,4552,19394
+Mexico,33,4459,18356
+Mexico,34,3723,18136
+Mexico,35,3678,17265
+Mexico,36,3400,16886
+Mexico,37,3263,16312
+Mexico,38,2672,16252
+Mexico,39,2937,16108
+Mexico,40,2658,15936
+Mexico,41,1904,17055
+Mexico,42,2386,16555
+Mexico,43,2757,16936
+Mexico,44,2971,17438
+Mexico,45,3132,18382
+Mexico,46,3515,18264
+Mexico,47,3134,19293
+Mexico,48,3979,18688
+Mexico,49,4062,19590
+Mexico,50,4236,21236
+Mexico,51,4249,22435
+Mexico,52,4224,25505
+Mexico,53,4787,28104
+Mexico,1,6493,30133
+Mexico,2,6998,36782
+Mexico,3,8910,36110
+Mexico,4,8922,28046
+Mexico,5,7664,24486
+Mexico,6,8007,19151
+Mexico,7,5900,19698
+Mexico,8,5608,18687
+Mexico,9,4889,15906
+Mexico,10,4106,15919
+Mexico,11,3326,15454
+Mexico,12,3587,14492
+Mexico,13,2524,14757
+Mexico,14,5191,12496
+Mexico,15,3001,14240
+Mexico,16,2608,13690
+Mexico,17,2286,13527
+Mexico,18,1752,13700
+Mexico,19,1452,13649
+Mexico,20,1210,13426
+Mexico,21,1860,12884
+Mexico,22,1025,13324
+Mexico,23,1346,13170
+Mexico,24,1037,13699
+Mexico,25,1377,13411
+Mexico,26,1058,14027
+Mexico,27,1347,14620
+Mexico,28,1362,15692
+Mexico,29,2093,16952
+Mexico,30,2610,18937
+Mexico,31,3386,21146
+Mexico,32,3747,22909
+Mexico,33,4988,23362
+Mexico,34,5010,22418
+Mexico,35,4975,22152
+Mexico,36,4608,20549
+Mexico,37,3755,20126
+Mexico,38,3947,18046
+Mexico,39,3142,17366
+Mexico,40,3494,15851
+Mexico,41,2295,15870
+Mexico,42,1878,15108
+Mexico,43,2106,14265
+Mexico,44,1369,15064
+Mexico,45,1355,14985
+Mexico,46,1283,15156
+Mexico,47,1487,14571
+Mexico,48,1344,14902
+Mexico,49,1417,14618
+Mexico,50,1215,15123
+Mexico,51,924,15935
+Mexico,52,785,16542
+Mexico,1,790,17013
+Mexico,2,1076,18685
+Mexico,3,1773,22181
+Mexico,4,2710,30030
+Mexico,5,3653,23757
+Mexico,6,3151,19921
+Mexico,7,2991,17343
+Mexico,8,2398,15125
+Mexico,9,1773,14009
+Mexico,10,1244,14003
+Mexico,11,969,13580
+Mexico,12,678,12929
+Mexico,13,473,13405
+Mexico,14,502,12638
+Mexico,15,219,12765
+Mexico,16,185,12892
+Mexico,17,205,11949
+Mexico,18,16,12860
+Mexico,19,131,12934
+Malta,1,0,93
+Malta,2,0,93
+Malta,3,0,107
+Malta,4,0,88
+Malta,5,0,77
+Malta,6,0,90
+Malta,7,0,72
+Malta,8,0,73
+Malta,9,0,68
+Malta,10,0,70
+Malta,11,0,90
+Malta,12,0,104
+Malta,13,0,80
+Malta,14,0,75
+Malta,15,3,74
+Malta,16,0,93
+Malta,17,1,55
+Malta,18,0,74
+Malta,19,1,70
+Malta,20,1,70
+Malta,21,0,52
+Malta,22,3,64
+Malta,23,0,65
+Malta,24,0,57
+Malta,25,0,61
+Malta,26,0,47
+Malta,27,0,69
+Malta,28,0,62
+Malta,29,0,64
+Malta,30,0,62
+Malta,31,0,64
+Malta,32,0,63
+Malta,33,0,58
+Malta,34,1,80
+Malta,35,2,71
+Malta,36,2,69
+Malta,37,1,63
+Malta,38,5,58
+Malta,39,11,69
+Malta,40,8,76
+Malta,41,2,69
+Malta,42,4,58
+Malta,43,6,61
+Malta,44,13,76
+Malta,45,14,70
+Malta,46,21,74
+Malta,47,14,75
+Malta,48,22,71
+Malta,49,18,88
+Malta,50,18,84
+Malta,51,21,88
+Malta,52,20,94
+Malta,53,10,80
+Malta,1,13,80
+Malta,2,6,78
+Malta,3,12,105
+Malta,4,16,77
+Malta,5,15,73
+Malta,6,11,81
+Malta,7,11,98
+Malta,8,11,96
+Malta,9,19,89
+Malta,10,17,88
+Malta,11,21,73
+Malta,12,15,71
+Malta,13,11,67
+Malta,14,4,62
+Malta,15,7,62
+Malta,16,4,60
+Malta,17,3,56
+Malta,18,1,69
+Malta,19,0,77
+Malta,20,0,75
+Malta,21,2,75
+Malta,22,0,53
+Malta,23,0,57
+Malta,24,1,67
+Malta,25,0,56
+Malta,26,0,92
+Malta,27,0,66
+Malta,28,0,76
+Malta,29,1,62
+Malta,30,2,60
+Malta,31,3,87
+Malta,32,4,88
+Malta,33,6,48
+Malta,34,4,72
+Malta,35,4,65
+Malta,36,5,67
+Malta,37,4,69
+Malta,38,4,46
+Malta,39,2,82
+Malta,40,0,66
+Malta,41,0,54
+Malta,42,0,87
+Malta,43,2,55
+Malta,44,1,70
+Malta,45,0,64
+Malta,46,1,79
+Malta,47,5,74
+Malta,48,0,80
+Malta,49,2,75
+Malta,50,1,87
+Malta,51,4,104
+Malta,52,4,88
+Malta,1,8,89
+Malta,2,19,72
+Malta,3,26,98
+Malta,4,15,106
+Malta,5,22,89
+Malta,6,20,95
+Malta,7,7,96
+Malta,8,8,71
+Malta,9,4,100
+Malta,10,6,91
+Malta,11,8,75
+Malta,12,9,71
+Malta,13,10,70
+Malta,14,21,85
+Malta,15,11,66
+Malta,16,15,67
+Malta,17,10,77
+Malta,18,11,61
+Malta,19,4,68
+Malta,20,4,66
+Malta,21,4,48
+Malta,22,2,61
+Malta,23,3,74
+Luxembourg,1,0,62
+Luxembourg,2,0,85
+Luxembourg,3,0,92
+Luxembourg,4,0,86
+Luxembourg,5,0,89
+Luxembourg,6,0,90
+Luxembourg,7,0,70
+Luxembourg,8,0,85
+Luxembourg,9,0,74
+Luxembourg,10,0,92
+Luxembourg,11,1,86
+Luxembourg,12,7,80
+Luxembourg,13,13,100
+Luxembourg,14,15,76
+Luxembourg,15,30,86
+Luxembourg,16,9,79
+Luxembourg,17,15,68
+Luxembourg,18,8,61
+Luxembourg,19,5,82
+Luxembourg,20,6,74
+Luxembourg,21,3,74
+Luxembourg,22,0,77
+Luxembourg,23,0,73
+Luxembourg,24,0,70
+Luxembourg,25,0,78
+Luxembourg,26,0,67
+Luxembourg,27,0,70
+Luxembourg,28,1,72
+Luxembourg,29,0,73
+Luxembourg,30,1,70
+Luxembourg,31,5,86
+Luxembourg,32,3,90
+Luxembourg,33,3,96
+Luxembourg,34,1,71
+Luxembourg,35,0,61
+Luxembourg,36,0,86
+Luxembourg,37,0,73
+Luxembourg,38,0,87
+Luxembourg,39,0,75
+Luxembourg,40,1,81
+Luxembourg,41,7,62
+Luxembourg,42,1,86
+Luxembourg,43,8,85
+Luxembourg,44,11,87
+Luxembourg,45,28,85
+Luxembourg,46,39,78
+Luxembourg,47,41,85
+Luxembourg,48,40,94
+Luxembourg,49,45,65
+Luxembourg,50,47,79
+Luxembourg,51,42,63
+Luxembourg,52,24,93
+Luxembourg,53,37,61
+Luxembourg,1,32,70
+Luxembourg,2,22,72
+Luxembourg,3,13,76
+Luxembourg,4,15,94
+Luxembourg,5,13,80
+Luxembourg,6,16,73
+Luxembourg,7,16,76
+Luxembourg,8,15,72
+Luxembourg,9,15,71
+Luxembourg,10,29,85
+Luxembourg,11,33,83
+Luxembourg,12,24,54
+Luxembourg,13,12,65
+Luxembourg,14,13,76
+Luxembourg,15,22,51
+Luxembourg,16,5,77
+Luxembourg,17,6,87
+Luxembourg,18,5,74
+Luxembourg,19,5,58
+Luxembourg,20,4,81
+Luxembourg,21,4,64
+Luxembourg,22,4,60
+Luxembourg,23,0,80
+Luxembourg,24,0,85
+Luxembourg,25,0,69
+Luxembourg,26,0,87
+Luxembourg,27,1,77
+Luxembourg,28,1,84
+Luxembourg,29,1,66
+Luxembourg,30,1,63
+Luxembourg,31,2,73
+Luxembourg,32,4,71
+Luxembourg,33,2,61
+Luxembourg,34,0,72
+Luxembourg,35,0,84
+Luxembourg,36,4,88
+Luxembourg,37,0,72
+Luxembourg,38,1,68
+Luxembourg,39,0,90
+Luxembourg,40,1,94
+Luxembourg,41,3,64
+Luxembourg,42,3,76
+Luxembourg,43,1,112
+Luxembourg,44,6,96
+Luxembourg,45,6,95
+Luxembourg,46,7,82
+Luxembourg,47,4,96
+Luxembourg,48,14,91
+Luxembourg,49,10,80
+Luxembourg,50,8,81
+Luxembourg,51,9,100
+Luxembourg,52,8,91
+Luxembourg,1,7,91
+Luxembourg,2,12,77
+Luxembourg,3,9,75
+Luxembourg,4,5,89
+Luxembourg,5,10,86
+Luxembourg,6,11,85
+Luxembourg,7,14,83
+Luxembourg,8,5,104
+Luxembourg,9,8,84
+Luxembourg,10,8,82
+Luxembourg,11,6,78
+Luxembourg,12,15,68
+Luxembourg,13,12,77
+Luxembourg,14,8,84
+Luxembourg,15,9,75
+Luxembourg,16,4,94
+Luxembourg,17,6,84
+Luxembourg,18,4,70
+Luxembourg,19,5,75
+Luxembourg,20,2,76
+Luxembourg,21,2,61
+Luxembourg,22,2,94
+Lithuania,1,0,812
+Lithuania,2,0,803
+Lithuania,3,0,787
+Lithuania,4,0,786
+Lithuania,5,0,762
+Lithuania,6,0,764
+Lithuania,7,0,809
+Lithuania,8,0,707
+Lithuania,9,0,807
+Lithuania,10,0,773
+Lithuania,11,0,773
+Lithuania,12,0,804
+Lithuania,13,4,812
+Lithuania,14,4,771
+Lithuania,15,6,797
+Lithuania,16,9,775
+Lithuania,17,8,778
+Lithuania,18,2,767
+Lithuania,19,3,714
+Lithuania,20,7,726
+Lithuania,21,5,710
+Lithuania,22,6,739
+Lithuania,23,2,733
+Lithuania,24,3,817
+Lithuania,25,1,759
+Lithuania,26,1,810
+Lithuania,27,1,688
+Lithuania,28,0,703
+Lithuania,29,1,763
+Lithuania,30,0,757
+Lithuania,31,0,723
+Lithuania,32,1,725
+Lithuania,33,0,746
+Lithuania,34,3,760
+Lithuania,35,2,719
+Lithuania,36,0,673
+Lithuania,37,2,727
+Lithuania,38,0,721
+Lithuania,39,5,779
+Lithuania,40,5,739
+Lithuania,41,8,777
+Lithuania,42,11,825
+Lithuania,43,22,823
+Lithuania,44,33,820
+Lithuania,45,49,828
+Lithuania,46,91,861
+Lithuania,47,144,955
+Lithuania,48,153,956
+Lithuania,49,196,1042
+Lithuania,50,252,968
+Lithuania,51,256,1115
+Lithuania,52,321,1074
+Lithuania,53,326,1017
+Lithuania,1,269,931
+Lithuania,2,248,947
+Lithuania,3,206,889
+Lithuania,4,156,933
+Lithuania,5,133,841
+Lithuania,6,125,859
+Lithuania,7,101,832
+Lithuania,8,77,707
+Lithuania,9,73,800
+Lithuania,10,71,827
+Lithuania,11,78,747
+Lithuania,12,72,760
+Lithuania,13,60,711
+Lithuania,14,83,813
+Lithuania,15,71,771
+Lithuania,16,92,778
+Lithuania,17,97,726
+Lithuania,18,84,797
+Lithuania,19,70,796
+Lithuania,20,85,752
+Lithuania,21,72,745
+Lithuania,22,45,787
+Lithuania,23,32,784
+Lithuania,24,26,778
+Lithuania,25,14,903
+Lithuania,26,8,679
+Lithuania,27,7,818
+Lithuania,28,6,877
+Lithuania,29,2,698
+Lithuania,30,6,746
+Lithuania,31,10,712
+Lithuania,32,24,764
+Lithuania,33,37,767
+Lithuania,34,54,735
+Lithuania,35,73,698
+Lithuania,36,79,787
+Lithuania,37,105,811
+Lithuania,38,122,851
+Lithuania,39,157,857
+Lithuania,40,167,842
+Lithuania,41,205,876
+Lithuania,42,193,894
+Lithuania,43,250,860
+Lithuania,44,240,809
+Lithuania,45,204,828
+Lithuania,46,209,764
+Lithuania,47,168,825
+Lithuania,48,152,812
+Lithuania,49,129,836
+Lithuania,50,145,853
+Lithuania,51,167,908
+Lithuania,52,130,853
+Lithuania,1,120,836
+Lithuania,2,113,828
+Lithuania,3,100,872
+Lithuania,4,104,813
+Lithuania,5,122,764
+Lithuania,6,131,905
+Lithuania,7,132,849
+Lithuania,8,161,786
+Lithuania,9,120,771
+Lithuania,10,106,791
+Lithuania,11,96,795
+Lithuania,12,103,784
+Lithuania,13,76,764
+Lithuania,14,56,758
+Lithuania,15,51,741
+Lithuania,16,47,837
+Lithuania,17,33,769
+Lithuania,18,20,751
+Lithuania,19,9,708
+Lithuania,20,4,733
+Lithuania,21,10,723
+Lithuania,22,5,623
+Lithuania,23,4,753
+Latvia,1,0,603
+Latvia,2,0,591
+Latvia,3,0,537
+Latvia,4,0,555
+Latvia,5,0,560
+Latvia,6,0,534
+Latvia,7,0,545
+Latvia,8,0,543
+Latvia,9,0,523
+Latvia,10,0,507
+Latvia,11,0,549
+Latvia,12,0,546
+Latvia,13,0,532
+Latvia,14,1,570
+Latvia,15,4,563
+Latvia,16,0,514
+Latvia,17,7,547
+Latvia,18,4,518
+Latvia,19,2,451
+Latvia,20,1,586
+Latvia,21,3,535
+Latvia,22,2,504
+Latvia,23,1,504
+Latvia,24,3,520
+Latvia,25,2,512
+Latvia,26,0,560
+Latvia,27,0,516
+Latvia,28,0,472
+Latvia,29,1,525
+Latvia,30,0,494
+Latvia,31,1,492
+Latvia,32,0,501
+Latvia,33,0,524
+Latvia,34,1,529
+Latvia,35,1,472
+Latvia,36,1,480
+Latvia,37,0,481
+Latvia,38,1,486
+Latvia,39,0,536
+Latvia,40,2,541
+Latvia,41,2,506
+Latvia,42,4,553
+Latvia,43,12,563
+Latvia,44,18,541
+Latvia,45,25,533
+Latvia,46,24,548
+Latvia,47,30,570
+Latvia,48,44,574
+Latvia,49,65,604
+Latvia,50,87,624
+Latvia,51,90,640
+Latvia,52,120,700
+Latvia,53,121,622
+Latvia,1,169,671
+Latvia,2,129,696
+Latvia,3,133,662
+Latvia,4,84,707
+Latvia,5,144,621
+Latvia,6,112,597
+Latvia,7,91,591
+Latvia,8,76,592
+Latvia,9,77,526
+Latvia,10,72,538
+Latvia,11,59,572
+Latvia,12,52,534
+Latvia,13,53,558
+Latvia,14,55,503
+Latvia,15,67,529
+Latvia,16,49,554
+Latvia,17,42,588
+Latvia,18,68,541
+Latvia,19,54,603
+Latvia,20,60,549
+Latvia,21,44,528
+Latvia,22,43,527
+Latvia,23,43,597
+Latvia,24,40,486
+Latvia,25,7,707
+Latvia,26,25,593
+Latvia,27,8,581
+Latvia,28,7,625
+Latvia,29,7,506
+Latvia,30,6,546
+Latvia,31,3,549
+Latvia,32,2,494
+Latvia,33,8,545
+Latvia,34,4,499
+Latvia,35,12,523
+Latvia,36,24,581
+Latvia,37,31,530
+Latvia,38,44,580
+Latvia,39,57,597
+Latvia,40,60,605
+Latvia,41,89,690
+Latvia,42,138,787
+Latvia,43,225,696
+Latvia,44,246,681
+Latvia,45,263,632
+Latvia,46,188,652
+Latvia,47,196,530
+Latvia,48,121,561
+Latvia,49,108,589
+Latvia,50,69,586
+Latvia,51,59,610
+Latvia,52,76,627
+Latvia,1,79,605
+Latvia,2,72,608
+Latvia,3,65,587
+Latvia,4,73,516
+Latvia,5,83,586
+Latvia,6,73,603
+Latvia,7,84,642
+Latvia,8,122,547
+Latvia,9,121,579
+Latvia,10,85,566
+Latvia,11,75,616
+Latvia,12,64,603
+Latvia,13,68,541
+Latvia,14,36,564
+Latvia,15,36,532
+Latvia,16,28,533
+Latvia,17,24,535
+Latvia,18,29,495
+Latvia,19,9,520
+Latvia,20,15,519
+Latvia,21,10,516
+Latvia,22,5,524
+Latvia,23,9,515
+Latvia,24,7,498
+Latvia,25,11,538
+Italy,1,0,13483
+Italy,2,0,13974
+Italy,3,0,14049
+Italy,4,0,13989
+Italy,5,0,13900
+Italy,6,0,13537
+Italy,7,0,13641
+Italy,8,3,13254
+Italy,9,31,13665
+Italy,10,332,14374
+Italy,11,1443,16791
+Italy,12,3667,18262
+Italy,13,5303,18154
+Italy,14,5108,15793
+Italy,15,4012,14937
+Italy,16,3761,12996
+Italy,17,2984,11741
+Italy,18,2240,10916
+Italy,19,1676,10928
+Italy,20,1348,10628
+Italy,21,877,10570
+Italy,22,630,10352
+Italy,23,484,10660
+Italy,24,446,10262
+Italy,25,289,10834
+Italy,26,135,11935
+Italy,27,123,12273
+Italy,28,93,11391
+Italy,29,91,10832
+Italy,30,62,11331
+Italy,31,47,12677
+Italy,32,51,12064
+Italy,33,191,12219
+Italy,34,41,11873
+Italy,35,40,11721
+Italy,36,64,11198
+Italy,37,69,11558
+Italy,38,97,11724
+Italy,39,128,11051
+Italy,40,151,11866
+Italy,41,180,12066
+Italy,42,377,12369
+Italy,43,795,13752
+Italy,44,1488,14171
+Italy,45,2568,14767
+Italy,46,3835,14812
+Italy,47,4594,14190
+Italy,48,5081,13806
+Italy,49,5174,12821
+Italy,50,4442,13040
+Italy,51,4279,12794
+Italy,52,3126,12577
+Italy,53,3407,12931
+Italy,1,3423,13408
+Italy,2,3422,13499
+Italy,3,3284,13925
+Italy,4,3055,13328
+Italy,5,2757,12900
+Italy,6,2304,12020
+Italy,7,2141,12824
+Italy,8,1981,12462
+Italy,9,2086,12665
+Italy,10,2360,12899
+Italy,11,2797,12762
+Italy,12,2991,12991
+Italy,13,3097,12832
+Italy,14,3224,11995
+Italy,15,2673,11973
+Italy,16,2311,12265
+Italy,17,1939,11822
+Italy,18,1656,11157
+Italy,19,1323,11105
+Italy,20,1069,11119
+Italy,21,821,11184
+Italy,22,477,11480
+Italy,23,479,11395
+Italy,24,268,11448
+Italy,25,202,12669
+Italy,26,177,12242
+Italy,27,126,11913
+Italy,28,92,11601
+Italy,29,82,11917
+Italy,30,119,12731
+Italy,31,152,12494
+Italy,32,212,13540
+Italy,33,319,12570
+Italy,34,342,11733
+Italy,35,422,11599
+Italy,36,404,11738
+Italy,37,391,11840
+Italy,38,387,11246
+Italy,39,334,11200
+Italy,40,270,11108
+Italy,41,240,12275
+Italy,42,285,12787
+Italy,43,274,12429
+Italy,44,291,12452
+Italy,45,384,12410
+Italy,46,402,12379
+Italy,47,497,12254
+Italy,48,521,13358
+Italy,49,636,13601
+Italy,50,810,14162
+Italy,51,970,14244
+Italy,52,1035,13921
+Italy,1,1392,14302
+Italy,2,2066,14638
+Italy,3,2419,14366
+Italy,4,2626,14507
+Italy,5,2622,13995
+Italy,6,2244,13111
+Italy,7,1974,12458
+Italy,8,1571,12102
+Italy,9,1327,12393
+Italy,10,981,12891
+Italy,11,917,12886
+Italy,12,997,12423
+Italy,13,1002,12555
+Italy,14,964,12491
+Italy,15,939,12282
+Italy,16,1001,11715
+Italy,17,924,9808
+Israel,1,0,1092
+Israel,2,0,1010
+Israel,3,0,1099
+Israel,4,0,1001
+Israel,5,0,991
+Israel,6,0,944
+Israel,7,0,966
+Israel,8,0,991
+Israel,9,0,906
+Israel,10,0,930
+Israel,11,0,965
+Israel,12,1,891
+Israel,13,15,969
+Israel,14,40,989
+Israel,15,53,827
+Israel,16,65,863
+Israel,17,30,871
+Israel,18,31,800
+Israel,19,20,837
+Israel,20,20,827
+Israel,21,7,954
+Israel,22,5,832
+Israel,23,13,798
+Israel,24,5,780
+Israel,25,3,789
+Israel,26,18,761
+Israel,27,15,765
+Israel,28,39,799
+Israel,29,56,780
+Israel,30,69,748
+Israel,31,84,854
+Israel,32,77,781
+Israel,33,98,846
+Israel,34,78,835
+Israel,35,88,811
+Israel,36,107,790
+Israel,37,118,845
+Israel,38,148,857
+Israel,39,200,826
+Israel,40,245,766
+Israel,41,266,848
+Israel,42,233,847
+Israel,43,193,854
+Israel,44,140,793
+Israel,45,103,804
+Israel,46,61,754
+Israel,47,69,861
+Israel,48,51,879
+Israel,49,53,875
+Israel,50,82,885
+Israel,51,100,907
+Israel,52,127,889
+Israel,53,190,948
+Israel,1,255,956
+Israel,2,334,929
+Israel,3,414,864
+Israel,4,377,920
+Israel,5,325,927
+Israel,6,267,916
+Israel,7,189,900
+Israel,8,175,836
+Israel,9,139,847
+Israel,10,120,922
+Israel,11,81,981
+Israel,12,93,905
+Israel,13,62,860
+Israel,14,53,956
+Israel,15,39,889
+Israel,16,17,859
+Israel,17,14,881
+Israel,18,11,849
+Israel,19,5,903
+Israel,20,22,857
+Israel,21,7,832
+Israel,22,7,791
+Israel,23,12,773
+Israel,24,0,807
+Israel,25,2,865
+Israel,26,0,840
+Israel,27,10,827
+Israel,28,11,739
+Israel,29,11,890
+Israel,30,17,873
+Israel,31,65,882
+Israel,32,126,895
+Israel,33,162,882
+Israel,34,159,887
+Israel,35,216,868
+Israel,36,178,812
+Israel,37,158,875
+Israel,38,134,821
+Israel,39,146,814
+Israel,40,99,862
+Israel,41,79,842
+Israel,42,50,926
+Israel,43,51,833
+Israel,44,22,886
+Israel,45,21,925
+Israel,46,33,826
+Israel,47,13,828
+Israel,48,15,879
+Israel,49,12,956
+Israel,50,16,1007
+Israel,51,10,996
+Israel,52,2,1101
+Israel,1,25,1044
+Israel,2,49,1163
+Israel,3,75,1316
+Israel,4,332,1155
+Israel,5,455,1108
+Israel,6,364,1089
+Israel,7,427,859
+Israel,8,183,1013
+Israel,9,128,973
+Israel,10,97,918
+Israel,11,52,976
+Israel,12,54,961
+Israel,13,45,1089
+Israel,14,54,1002
+Israel,15,46,844
+Israel,16,40,880
+Israel,17,28,893
+Israel,18,44,885
+Israel,19,60,800
+Israel,20,32,806
+Israel,21,7,869
+Israel,22,25,811
+Israel,23,18,837
+Israel,24,22,827
+Israel,25,36,778
+Israel,26,38,837
+Iran,1,0,7868.7
+Iran,2,0,7527.1
+Iran,3,0,7717.3
+Iran,4,0,7509.4
+Iran,5,0,7443.1
+Iran,6,0,8022.6
+Iran,7,0,7343.6
+Iran,8,8,8143
+Iran,9,46,7849.3
+Iran,10,140,8597
+Iran,11,530,9335.7
+Iran,12,961,9838.7
+Iran,13,955,7741.7
+Iran,14,963,7124.9
+Iran,15,871,9255.3
+Iran,16,644,8628.4
+Iran,17,592,7788.7
+Iran,18,493,7653.1
+Iran,19,437,7140.6
+Iran,20,348,6963.3
+Iran,21,429,7064.6
+Iran,22,380,6553.6
+Iran,23,484,7347.1
+Iran,24,556,8873.4
+Iran,25,786,7635
+Iran,26,885,8938.3
+Iran,27,1063,8414.4
+Iran,28,1258,8568.1
+Iran,29,1359,8854.9
+Iran,30,1512,9000.1
+Iran,31,1490,9837.3
+Iran,32,1237,9414.7
+Iran,33,1212,8337.9
+Iran,34,1004,8722.1
+Iran,35,819,8550.7
+Iran,36,831,7520.4
+Iran,37,864,8315.1
+Iran,38,1144,7902
+Iran,39,1288,8283.6
+Iran,40,1368,8713.1
+Iran,41,1587,8624.3
+Iran,42,1831,9817
+Iran,43,2241,9365.9
+Iran,44,2682,10393.6
+Iran,45,2993,11026.1
+Iran,46,3202,12406.4
+Iran,47,3309,11102.7
+Iran,48,3072,10815
+Iran,49,2436,9774.7
+Iran,50,1886,9312.1
+Iran,51,1429,9224.7
+Iran,52,1068,8696.3
+Iran,53,847,8469
+Iran,1,631,8298
+Iran,2,632,7996.3
+Iran,3,580,8071.4
+Iran,4,576,8357.9
+Iran,5,510,7916.1
+Iran,6,476,7404.7
+Iran,7,538,7990.4
+Iran,8,590,7714.3
+Iran,9,614,8058.1
+Iran,10,543,7954.3
+Iran,11,567,8081.3
+Iran,12,600,5260.7
+Iran,13,763,8991.9
+Iran,14,1330,9334.1
+Iran,15,2242,8755.9
+Iran,16,2842,9311.1
+Iran,17,2910,9462.7
+Iran,18,2426,8490.4
+Iran,19,2026,8774.3
+Iran,20,1661,9342.9
+Iran,21,1342,8883
+Iran,22,1124,8228
+Iran,23,1035,8107.4
+Iran,24,867,8390.1
+Iran,25,880,7745.9
+Iran,26,947,7982.7
+Iran,27,1067,7641
+Iran,28,1302,8286.6
+Iran,29,1639,7570.3
+Iran,30,2196,9367.9
+Iran,31,3019,9988.6
+Iran,32,3813,8850.3
+Iran,33,4210,10216.4
+Iran,34,4444,14053.7
+Iran,35,4192,12022.1
+Iran,36,3637,11658
+Iran,37,2871,10325.3
+Iran,38,2178,9794.4
+Iran,39,1749,9206.1
+Iran,40,1483,8324.7
+Iran,41,1483,9720.6
+Iran,42,1148,9089
+Iran,43,1080,8676.4
+Iran,44,996,8709.6
+Iran,45,868,8351.1
+Iran,46,789,8142.6
+Iran,47,673,8340.4
+Iran,48,571,8496.7
+Iran,49,522,7970.4
+Iran,50,361,7901.6
+Iran,51,317,8074.7
+Iran,52,280,7914.4
+Iran,1,198,7878.9
+Iran,2,197,8307
+Iran,3,155,7803
+Iran,4,194,8355
+Iran,5,406,8203.9
+Iran,6,888,8197
+Iran,7,1322,8554.7
+Iran,8,1591,9553.3
+Iran,9,1317,8838.6
+Iran,10,1001,9158.3
+Iran,12,411,4980.6
+Iran,13,294,11512.3
+Iran,14,301,7524.9
+Iran,15,213,7679.4
+Iran,16,146,7353.6
+Iran,17,121,6895
+Iran,18,81,6174
+Iran,19,47,7933.9
+Iran,20,50,7229.7
+Iran,21,34,7599.9
+Iran,22,23,7689.1
+Iran,23,19,7092.3
+Iran,24,13,7693.3
+Iran,25,22,7340.3
+Iran,26,11,7344
+Iran,27,43,7161.3
+Iran,28,60,7124.9
+Iceland,1,0,57
+Iceland,2,0,55
+Iceland,3,0,52
+Iceland,4,0,55
+Iceland,5,0,39
+Iceland,6,0,47
+Iceland,7,0,49
+Iceland,8,0,48
+Iceland,9,0,43
+Iceland,10,0,50
+Iceland,11,0,42
+Iceland,12,1,38
+Iceland,13,1,42
+Iceland,14,2,48
+Iceland,15,4,46
+Iceland,16,1,59
+Iceland,17,1,34
+Iceland,18,0,44
+Iceland,19,0,37
+Iceland,20,0,42
+Iceland,21,0,50
+Iceland,22,0,50
+Iceland,23,0,34
+Iceland,24,0,40
+Iceland,25,0,31
+Iceland,26,0,35
+Iceland,27,0,35
+Iceland,28,0,46
+Iceland,29,0,42
+Iceland,30,0,35
+Iceland,31,0,36
+Iceland,32,0,37
+Iceland,33,0,43
+Iceland,34,0,34
+Iceland,35,0,28
+Iceland,36,0,55
+Iceland,37,0,40
+Iceland,38,0,45
+Iceland,39,0,37
+Iceland,40,0,38
+Iceland,41,0,53
+Iceland,42,1,46
+Iceland,43,0,50
+Iceland,44,1,55
+Iceland,45,8,42
+Iceland,46,5,48
+Iceland,47,1,44
+Iceland,48,0,35
+Iceland,49,1,38
+Iceland,50,1,45
+Iceland,51,0,43
+Iceland,52,0,53
+Iceland,53,1,45
+Iceland,1,0,45
+Iceland,2,0,57
+Iceland,3,0,48
+Iceland,4,0,42
+Iceland,5,0,42
+Iceland,6,0,46
+Iceland,7,0,55
+Iceland,8,0,46
+Iceland,9,0,46
+Iceland,10,0,40
+Iceland,11,0,42
+Iceland,12,0,37
+Iceland,13,0,52
+Iceland,14,0,40
+Iceland,15,0,54
+Iceland,16,0,45
+Iceland,17,0,47
+Iceland,18,0,53
+Iceland,19,0,41
+Iceland,20,0,41
+Iceland,21,1,34
+Iceland,22,0,38
+Iceland,23,0,45
+Iceland,24,0,52
+Iceland,25,0,44
+Iceland,26,0,45
+Iceland,27,0,43
+Iceland,28,0,47
+Iceland,29,0,38
+Iceland,30,0,56
+Iceland,31,0,46
+Iceland,32,0,47
+Iceland,33,0,44
+Iceland,34,3,42
+Iceland,35,0,36
+Iceland,36,0,43
+Iceland,37,0,43
+Iceland,38,0,32
+Iceland,39,0,35
+Iceland,40,0,42
+Iceland,41,0,43
+Iceland,42,0,31
+Iceland,43,0,39
+Iceland,44,1,49
+Iceland,45,0,58
+Iceland,46,0,41
+Iceland,47,1,42
+Iceland,48,0,43
+Iceland,49,0,46
+Iceland,50,1,60
+Iceland,51,1,47
+Iceland,52,0,55
+Iceland,1,2,49
+Iceland,2,5,49
+Iceland,3,0,64
+Iceland,4,2,40
+Iceland,5,3,46
+Iceland,6,5,44
+Iceland,7,4,51
+Iceland,8,4,66
+Iceland,9,7,71
+Iceland,10,11,60
+Iceland,11,12,55
+Iceland,12,6,52
+Iceland,13,4,63
+Iceland,14,4,52
+Iceland,15,5,44
+Iceland,16,4,42
+Iceland,17,5,44
+Iceland,18,0,50
+Iceland,19,1,44
+Iceland,20,0,46
+Iceland,21,0,45
+Iceland,22,0,41
+Hungary,1,0,2612
+Hungary,2,0,2585
+Hungary,3,0,2584
+Hungary,4,0,2723
+Hungary,5,0,2802
+Hungary,6,0,2637
+Hungary,7,0,2751
+Hungary,8,0,2585
+Hungary,9,0,2781
+Hungary,10,0,2606
+Hungary,11,1,2577
+Hungary,12,5,2796
+Hungary,13,7,2585
+Hungary,14,21,2507
+Hungary,15,65,2510
+Hungary,16,90,2419
+Hungary,17,83,2276
+Hungary,18,68,2181
+Hungary,19,73,2219
+Hungary,20,38,2308
+Hungary,21,35,2075
+Hungary,22,40,2151
+Hungary,23,20,2379
+Hungary,24,16,2272
+Hungary,25,8,2060
+Hungary,26,11,2258
+Hungary,27,8,2309
+Hungary,28,6,2163
+Hungary,29,1,2109
+Hungary,30,0,2153
+Hungary,31,1,2361
+Hungary,32,5,2306
+Hungary,33,6,2262
+Hungary,34,5,2219
+Hungary,35,1,2202
+Hungary,36,10,2211
+Hungary,37,13,2320
+Hungary,38,46,2426
+Hungary,39,53,2404
+Hungary,40,86,2476
+Hungary,41,132,2431
+Hungary,42,188,2570
+Hungary,43,283,2706
+Hungary,44,394,2791
+Hungary,45,619,2932
+Hungary,46,659,3304
+Hungary,47,703,3247
+Hungary,48,872,3195
+Hungary,49,1196,2973
+Hungary,50,1097,2992
+Hungary,51,1134,2599
+Hungary,52,948,2804
+Hungary,53,837,2634
+Hungary,1,764,2454
+Hungary,2,693,2510
+Hungary,3,627,2414
+Hungary,4,556,2304
+Hungary,5,566,2321
+Hungary,6,616,2265
+Hungary,7,593,2334
+Hungary,8,675,2492
+Hungary,9,899,2375
+Hungary,10,1079,2729
+Hungary,11,1310,2995
+Hungary,12,1710,2859
+Hungary,13,1743,2792
+Hungary,14,1702,2439
+Hungary,15,1767,1765
+Hungary,16,1441,1810
+Hungary,17,1177,1792
+Hungary,18,800,1923
+Hungary,19,573,1978
+Hungary,20,344,2045
+Hungary,21,209,2125
+Hungary,22,126,2289
+Hungary,23,50,2324
+Hungary,24,46,2319
+Hungary,25,30,2647
+Hungary,26,12,2377
+Hungary,27,12,2350
+Hungary,28,11,2414
+Hungary,29,5,2103
+Hungary,30,6,2502
+Hungary,31,7,2177
+Hungary,32,5,2347
+Hungary,33,8,2197
+Hungary,34,11,2154
+Hungary,35,4,2270
+Hungary,36,25,2379
+Hungary,37,37,2433
+Hungary,38,28,2347
+Hungary,39,48,2375
+Hungary,40,76,2458
+Hungary,41,76,2589
+Hungary,42,141,2529
+Hungary,43,237,2736
+Hungary,44,455,2879
+Hungary,45,683,2847
+Hungary,46,913,2757
+Hungary,47,1086,2943
+Hungary,48,1256,2898
+Hungary,49,1307,2660
+Hungary,50,1101,2540
+Hungary,51,777,2685
+Hungary,52,879,2486
+Hungary,1,594,2533
+Hungary,2,457,2442
+Hungary,3,585,2268
+Hungary,4,407,2530
+Hungary,5,512,2623
+Hungary,6,619,2549
+Hungary,7,706,2482
+Hungary,8,686,2327
+Hungary,9,534,2354
+Hungary,10,367,2383
+Hungary,11,308,2554
+Hungary,12,297,2462
+Hungary,13,252,2523
+Hungary,14,211,2517
+Hungary,15,144,2378
+Hungary,16,183,2397
+Hungary,17,153,2425
+Hungary,18,65,2305
+Hungary,19,77,2252
+Hungary,20,103,2060
+Hungary,21,61,2053
+Hungary,22,40,2199
+Guatemala,1,0,1757
+Guatemala,2,0,1670
+Guatemala,3,0,1663
+Guatemala,4,0,1607
+Guatemala,5,0,1599
+Guatemala,6,0,1610
+Guatemala,7,0,1586
+Guatemala,8,0,1517
+Guatemala,9,0,1565
+Guatemala,10,0,1581
+Guatemala,11,0,1478
+Guatemala,12,1,1393
+Guatemala,13,0,1329
+Guatemala,14,1,1304
+Guatemala,15,3,1256
+Guatemala,16,2,1312
+Guatemala,17,8,1397
+Guatemala,18,2,1349
+Guatemala,19,9,1366
+Guatemala,20,7,1395
+Guatemala,21,25,1445
+Guatemala,22,50,1492
+Guatemala,23,144,1746
+Guatemala,24,132,1814
+Guatemala,25,147,1966
+Guatemala,26,196,2156
+Guatemala,27,220,2406
+Guatemala,28,272,2689
+Guatemala,29,266,2519
+Guatemala,30,249,2461
+Guatemala,31,261,2315
+Guatemala,32,216,2170
+Guatemala,33,168,2057
+Guatemala,34,215,1913
+Guatemala,35,146,1981
+Guatemala,36,112,1917
+Guatemala,37,105,1852
+Guatemala,38,162,1770
+Guatemala,39,110,1797
+Guatemala,40,64,1748
+Guatemala,41,91,1835
+Guatemala,42,146,1673
+Guatemala,43,114,1673
+Guatemala,44,94,1727
+Guatemala,45,83,1783
+Guatemala,46,111,1709
+Guatemala,47,144,1732
+Guatemala,48,90,1772
+Guatemala,49,84,1681
+Guatemala,50,173,1693
+Guatemala,51,233,1618
+Guatemala,52,112,1786
+Guatemala,53,65,1981
+Guatemala,1,192,1708
+Guatemala,2,229,1699
+Guatemala,3,211,1684
+Guatemala,4,178,1661
+Guatemala,5,241,1531
+Guatemala,6,240,1546
+Guatemala,7,158,1549
+Guatemala,8,111,1637
+Guatemala,9,80,1729
+Guatemala,10,98,1667
+Guatemala,11,132,1662
+Guatemala,12,102,1866
+Guatemala,13,89,1873
+Guatemala,14,125,1935
+Guatemala,15,205,2011
+Guatemala,16,189,1999
+Guatemala,17,148,2035
+Guatemala,18,175,1953
+Guatemala,19,154,1932
+Guatemala,20,113,2018
+Guatemala,21,137,1938
+Guatemala,22,157,1997
+Guatemala,23,161,2042
+Guatemala,24,239,1912
+Guatemala,25,356,1823
+Guatemala,26,411,1941
+Guatemala,27,252,2207
+Guatemala,28,201,2331
+Guatemala,29,186,2485
+Guatemala,30,313,2414
+Guatemala,31,358,2463
+Guatemala,32,384,2587
+Guatemala,33,345,2978
+Guatemala,34,358,3188
+Guatemala,35,407,3269
+Guatemala,36,445,3403
+Guatemala,37,330,3357
+Guatemala,38,335,2867
+Guatemala,39,355,2591
+Guatemala,40,297,2338
+Guatemala,41,303,2097
+Guatemala,42,370,1725
+Guatemala,43,394,1575
+Guatemala,44,343,1575
+Guatemala,45,277,1517
+Guatemala,46,126,1645
+Guatemala,47,88,1612
+Guatemala,48,58,1721
+Guatemala,49,58,1650
+Guatemala,50,28,1741
+Guatemala,51,25,1757
+Greece,1,0,2751
+Greece,2,0,2923
+Greece,3,0,2863
+Greece,4,0,2774
+Greece,5,0,2990
+Greece,6,0,2850
+Greece,7,0,2782
+Greece,8,0,2469
+Greece,9,0,2545
+Greece,10,0,2645
+Greece,11,4,2590
+Greece,12,11,2537
+Greece,13,23,2416
+Greece,14,35,2419
+Greece,15,20,2342
+Greece,16,23,2245
+Greece,17,18,2185
+Greece,18,10,2297
+Greece,19,7,2121
+Greece,20,12,2462
+Greece,21,8,2321
+Greece,22,4,1957
+Greece,23,7,2094
+Greece,24,1,2210
+Greece,25,7,2347
+Greece,26,1,2180
+Greece,27,1,2670
+Greece,28,1,2303
+Greece,29,1,2136
+Greece,30,8,2227
+Greece,31,6,2708
+Greece,32,4,2524
+Greece,33,16,2351
+Greece,34,14,2347
+Greece,35,20,2278
+Greece,36,22,2293
+Greece,37,21,2253
+Greece,38,33,2243
+Greece,39,41,2115
+Greece,40,30,2193
+Greece,41,40,2174
+Greece,42,60,2084
+Greece,43,65,2158
+Greece,44,61,2352
+Greece,45,149,2398
+Greece,46,322,2462
+Greece,47,524,2625
+Greece,48,691,2606
+Greece,49,682,2654
+Greece,50,622,2493
+Greece,51,547,2391
+Greece,52,434,2329
+Greece,53,351,2327
+Greece,1,306,2346
+Greece,2,206,2292
+Greece,3,177,2475
+Greece,4,150,2471
+Greece,5,176,2317
+Greece,6,154,2309
+Greece,7,171,2358
+Greece,8,207,2460
+Greece,9,254,2470
+Greece,10,333,2322
+Greece,11,371,2412
+Greece,12,418,2341
+Greece,13,500,2429
+Greece,14,505,2393
+Greece,15,577,2392
+Greece,16,545,2120
+Greece,17,446,2358
+Greece,18,576,2361
+Greece,19,386,2050
+Greece,20,357,2143
+Greece,21,282,2303
+Greece,22,223,2095
+Greece,23,145,2248
+Greece,24,126,2188
+Greece,25,116,2843
+Greece,26,73,3081
+Greece,27,55,2647
+Greece,28,58,2641
+Greece,29,48,2401
+Greece,30,77,2748
+Greece,31,100,3786
+Greece,32,148,2804
+Greece,33,161,2508
+Greece,34,252,2526
+Greece,35,250,2315
+Greece,36,283,2236
+Greece,37,297,2422
+Greece,38,213,2227
+Greece,39,241,2198
+Greece,40,215,2241
+Greece,41,240,2248
+Greece,42,253,2261
+Greece,43,310,2416
+Greece,44,357,2636
+Greece,45,471,2381
+Greece,46,547,2444
+Greece,47,646,2524
+Greece,48,636,2538
+Greece,49,653,2687
+Greece,50,643,2643
+Greece,51,538,2762
+Greece,52,481,2816
+Greece,1,484,2785
+Greece,2,590,2787
+Greece,3,651,2612
+Greece,4,737,2940
+Greece,5,722,2833
+Greece,6,660,2579
+Greece,7,573,2489
+Greece,8,458,2338
+Greece,9,409,2437
+Greece,10,368,2476
+Greece,11,375,2668
+Greece,12,331,2709
+Greece,13,416,2618
+Greece,14,446,2423
+Greece,15,458,2344
+Greece,16,279,2344
+Greece,17,308,2331
+Greece,18,217,2116
+Greece,19,155,2323
+Greece,20,143,2247
+Greece,21,113,2304
+Greece,22,110,2485
+Germany,1,0,18883
+Germany,2,0,19408
+Germany,3,0,18953
+Germany,4,0,18827
+Germany,5,0,19774
+Germany,6,0,19038
+Germany,7,0,19648
+Germany,8,0,18953
+Germany,9,0,19505
+Germany,10,0,19667
+Germany,11,12,19837
+Germany,12,43,19679
+Germany,13,334,19344
+Germany,14,953,19709
+Germany,15,1331,19171
+Germany,16,1621,17640
+Germany,17,1346,17211
+Germany,18,1009,16911
+Germany,19,746,16905
+Germany,20,519,16482
+Germany,21,333,16830
+Germany,22,253,16523
+Germany,23,168,17094
+Germany,24,119,16482
+Germany,25,96,16305
+Germany,26,75,17218
+Germany,27,55,16402
+Germany,28,51,16091
+Germany,29,21,16516
+Germany,30,34,16853
+Germany,31,30,17403
+Germany,32,55,17415
+Germany,33,35,19685
+Germany,34,38,17521
+Germany,35,26,16630
+Germany,36,30,16759
+Germany,37,24,17131
+Germany,38,37,17518
+Germany,39,71,17375
+Germany,40,72,17542
+Germany,41,86,17415
+Germany,42,162,17592
+Germany,43,255,18333
+Germany,44,449,18135
+Germany,45,808,18199
+Germany,46,1196,18531
+Germany,47,1537,18645
+Germany,48,2101,19203
+Germany,49,2649,19955
+Germany,50,3015,20988
+Germany,51,4262,20462
+Germany,52,3729,21825
+Germany,53,4494,21003
+Germany,1,6071,18778
+Germany,2,6076,18427
+Germany,3,5451,18626
+Germany,4,5075,17570
+Germany,5,4572,17164
+Germany,6,3443,17489
+Germany,7,2881,17588
+Germany,8,2204,16749
+Germany,9,1855,16586
+Germany,10,1471,17139
+Germany,11,1293,17044
+Germany,12,1206,17191
+Germany,13,1093,17402
+Germany,14,1390,17438
+Germany,15,1561,17508
+Germany,16,1650,17601
+Germany,17,1628,17883
+Germany,18,1583,17726
+Germany,19,1321,17271
+Germany,20,1284,16509
+Germany,21,1026,16140
+Germany,22,816,17348
+Germany,23,612,16798
+Germany,24,551,18501
+Germany,25,369,16820
+Germany,26,276,16714
+Germany,27,201,16758
+Germany,28,131,17498
+Germany,29,162,17427
+Germany,30,135,17074
+Germany,31,123,16880
+Germany,32,85,17451
+Germany,33,109,17342
+Germany,34,154,17012
+Germany,35,216,17123
+Germany,36,260,18575
+Germany,37,352,17666
+Germany,38,435,17682
+Germany,39,393,17701
+Germany,40,416,17761
+Germany,41,416,18501
+Germany,42,482,19278
+Germany,43,629,19639
+Germany,44,796,19528
+Germany,45,1147,19857
+Germany,46,1390,20874
+Germany,47,1821,21349
+Germany,48,2157,21953
+Germany,49,2598,21319
+Germany,50,2595,20217
+Germany,51,2131,20232
+Germany,52,1791,20217
+Germany,1,1822,18887
+Germany,2,1642,18179
+Germany,3,1099,18654
+Germany,4,1007,19119
+Germany,5,992,19627
+Germany,6,1218,19178
+Germany,7,1340,19747
+Germany,8,1403,18927
+Germany,9,1424,19247
+Germany,10,1469,19652
+Germany,11,1345,19891
+Germany,12,1521,19555
+Germany,13,1628,19111
+Germany,14,1676,19098
+Germany,15,1225,18884
+Germany,16,1232,18183
+Germany,17,1276,17902
+Germany,18,1077,17894
+Germany,19,961,18058
+Germany,20,827,17455
+Germany,21,538,16389
+Germany,22,522,17260
+Germany,23,421,17233
+Germany,24,369,17810
+Germany,25,558,18277
+Germany,26,561,17568
+France,1,0,12737
+France,2,0,13200
+France,3,0,12598
+France,4,0,12331
+France,5,0,12541
+France,6,0,12407
+France,7,1,12260
+France,8,0,11835
+France,9,1,12041
+France,10,17,12122
+France,11,72,12482
+France,12,585,13354
+France,13,1932,14256
+France,14,5473,13332
+France,15,6315,11248
+France,16,5298,10098
+France,17,3136,9685
+France,18,2068,9192
+France,19,1485,9545
+France,20,1730,9025
+France,21,556,10560
+France,22,433,10001
+France,23,353,10039
+France,24,253,10107
+France,25,233,10194
+France,26,137,10974
+France,27,115,9905
+France,28,117,10199
+France,29,146,9983
+France,30,51,10491
+France,31,72,10794
+France,32,61,10687
+France,33,86,11681
+France,34,103,10387
+France,35,97,10406
+France,36,117,10506
+France,37,215,10984
+France,38,369,11412
+France,39,439,10429
+France,40,485,11371
+France,41,500,11341
+France,42,749,11418
+France,43,1181,12508
+France,44,2400,12213
+France,45,3457,12152
+France,46,4109,11358
+France,47,4182,10811
+France,48,3595,11102
+France,49,2830,11703
+France,50,2756,11748
+France,51,2638,11468
+France,52,2197,11604
+France,53,2291,12074
+France,1,2713,11965
+France,2,2533,12105
+France,3,2766,12383
+France,4,3008,11777
+France,5,2908,11529
+France,6,2849,11309
+France,7,2466,11666
+France,8,2148,11172
+France,9,2146,10818
+France,10,1856,10943
+France,11,1849,11116
+France,12,2318,10460
+France,13,2055,11186
+France,14,2100,10899
+France,15,1983,11104
+France,16,2125,11097
+France,17,1962,10786
+France,18,1573,10932
+France,19,1224,10281
+France,20,981,10260
+France,21,806,10250
+France,22,603,10215
+France,23,396,10279
+France,24,348,10512
+France,25,231,9630
+France,26,195,9941
+France,27,165,10328
+France,28,147,10183
+France,29,151,11347
+France,30,269,10407
+France,31,340,10205
+France,32,467,11114
+France,33,781,10438
+France,34,724,10199
+France,35,679,10790
+France,36,651,11081
+France,37,509,10440
+France,38,407,10507
+France,39,334,10976
+France,40,279,11128
+France,41,208,11859
+France,42,204,11775
+France,43,211,12038
+France,44,238,11443
+France,45,232,11899
+France,46,318,11934
+France,47,447,12401
+France,48,642,12868
+France,49,899,13081
+France,50,1062,12832
+France,51,1149,13444
+France,52,1302,13420
+France,1,1497,13061
+France,2,1513,13020
+France,3,1679,12778
+France,4,1955,13104
+France,5,1923,13169
+France,6,2300,11980
+France,7,1791,11909
+France,8,1540,11185
+France,9,1140,11636
+France,10,832,11716
+France,11,826,11542
+France,12,739,11656
+France,13,834,11976
+France,14,782,12273
+France,15,869,12307
+France,16,903,11767
+France,17,902,11150
+France,18,762,11220
+France,19,551,10861
+France,20,510,10635
+France,21,345,9797
+France,22,340,10314
+France,23,279,9407
+Finland,1,0,1047
+Finland,2,0,1069
+Finland,3,0,1061
+Finland,4,0,1040
+Finland,5,0,1074
+Finland,6,0,1115
+Finland,7,0,1098
+Finland,8,0,1091
+Finland,9,0,1050
+Finland,10,1,1105
+Finland,11,2,1103
+Finland,12,7,1115
+Finland,13,21,1087
+Finland,14,49,1061
+Finland,15,56,1125
+Finland,16,69,1025
+Finland,17,42,1100
+Finland,18,18,1113
+Finland,19,26,1048
+Finland,20,8,1096
+Finland,21,4,953
+Finland,22,2,988
+Finland,23,0,984
+Finland,24,0,1003
+Finland,25,1,1067
+Finland,26,2,1019
+Finland,27,1,995
+Finland,28,0,944
+Finland,29,0,1021
+Finland,30,1,963
+Finland,31,2,980
+Finland,32,1,953
+Finland,33,0,977
+Finland,34,1,1015
+Finland,35,0,989
+Finland,36,3,976
+Finland,37,6,1118
+Finland,38,2,1044
+Finland,39,4,1085
+Finland,40,2,975
+Finland,41,6,978
+Finland,42,5,1069
+Finland,43,5,1065
+Finland,44,3,1129
+Finland,45,4,1039
+Finland,46,24,1001
+Finland,47,26,1093
+Finland,48,33,1075
+Finland,49,40,1079
+Finland,50,43,1063
+Finland,51,36,1112
+Finland,52,21,1108
+Finland,53,28,1149
+Finland,1,26,1078
+Finland,2,32,1098
+Finland,3,25,1179
+Finland,4,15,1144
+Finland,5,14,1089
+Finland,6,20,1036
+Finland,7,19,1141
+Finland,8,28,1105
+Finland,9,17,1074
+Finland,10,31,1019
+Finland,11,20,1070
+Finland,12,24,997
+Finland,13,14,1039
+Finland,14,11,1045
+Finland,15,15,1018
+Finland,16,8,1047
+Finland,17,10,999
+Finland,18,6,1062
+Finland,19,17,1099
+Finland,20,13,996
+Finland,21,3,993
+Finland,22,4,1009
+Finland,23,3,978
+Finland,24,2,1007
+Finland,25,2,1078
+Finland,26,0,1009
+Finland,27,2,1090
+Finland,28,5,1143
+Finland,29,5,1010
+Finland,30,10,1018
+Finland,31,17,1046
+Finland,32,6,1094
+Finland,33,9,1072
+Finland,34,12,1054
+Finland,35,13,1066
+Finland,36,13,1135
+Finland,37,11,1053
+Finland,38,17,1104
+Finland,39,25,1109
+Finland,40,34,1104
+Finland,41,21,1166
+Finland,42,27,1173
+Finland,43,34,1095
+Finland,44,56,1032
+Finland,45,43,1118
+Finland,46,55,1138
+Finland,47,61,1168
+Finland,48,55,1176
+Finland,49,44,1256
+Finland,50,44,1181
+Finland,51,44,1192
+Finland,52,92,1244
+Finland,1,83,1196
+Finland,2,49,1236
+Finland,3,23,1380
+Finland,4,48,1194
+Finland,5,116,1193
+Finland,6,112,1235
+Finland,7,107,1157
+Finland,8,87,1079
+Finland,9,23,1220
+Finland,10,82,1178
+Finland,11,130,1110
+Finland,12,202,1025
+Finland,13,193,1080
+Finland,14,156,1146
+Finland,15,183,1076
+Finland,16,121,1103
+Finland,17,301,901
+Finland,18,211,979
+Finland,19,134,1000
+Finland,20,122,966
+Finland,21,116,931
+Finland,22,105,874
+Estonia,1,0,294
+Estonia,2,0,326
+Estonia,3,0,308
+Estonia,4,0,299
+Estonia,5,0,307
+Estonia,6,0,271
+Estonia,7,0,322
+Estonia,8,0,331
+Estonia,9,0,315
+Estonia,10,0,293
+Estonia,11,0,340
+Estonia,12,0,311
+Estonia,13,3,322
+Estonia,14,12,300
+Estonia,15,10,300
+Estonia,16,15,294
+Estonia,17,9,310
+Estonia,18,6,298
+Estonia,19,5,302
+Estonia,20,3,282
+Estonia,21,1,277
+Estonia,22,4,297
+Estonia,23,1,268
+Estonia,24,0,273
+Estonia,25,0,279
+Estonia,26,0,287
+Estonia,27,0,268
+Estonia,28,0,270
+Estonia,29,0,284
+Estonia,30,0,296
+Estonia,31,0,304
+Estonia,32,0,281
+Estonia,33,0,295
+Estonia,34,0,265
+Estonia,35,1,297
+Estonia,36,0,280
+Estonia,37,0,256
+Estonia,38,0,312
+Estonia,39,0,330
+Estonia,40,3,298
+Estonia,41,1,273
+Estonia,42,0,309
+Estonia,43,5,299
+Estonia,44,0,267
+Estonia,45,2,285
+Estonia,46,6,285
+Estonia,47,7,310
+Estonia,48,24,310
+Estonia,49,19,320
+Estonia,50,18,330
+Estonia,51,25,319
+Estonia,52,30,330
+Estonia,53,40,328
+Estonia,1,39,345
+Estonia,2,42,354
+Estonia,3,51,356
+Estonia,4,43,311
+Estonia,5,42,312
+Estonia,6,34,346
+Estonia,7,40,309
+Estonia,8,54,353
+Estonia,9,64,358
+Estonia,10,66,357
+Estonia,11,68,357
+Estonia,12,81,325
+Estonia,13,73,341
+Estonia,14,87,311
+Estonia,15,64,325
+Estonia,16,51,311
+Estonia,17,25,291
+Estonia,18,33,319
+Estonia,19,21,329
+Estonia,20,18,301
+Estonia,21,11,308
+Estonia,22,12,281
+Estonia,23,3,300
+Estonia,24,2,295
+Estonia,25,1,394
+Estonia,26,0,314
+Estonia,27,1,370
+Estonia,28,1,326
+Estonia,29,0,277
+Estonia,30,1,285
+Estonia,31,5,306
+Estonia,32,2,309
+Estonia,33,2,287
+Estonia,34,8,291
+Estonia,35,12,317
+Estonia,36,11,336
+Estonia,37,14,286
+Estonia,38,18,334
+Estonia,39,19,330
+Estonia,40,31,309
+Estonia,41,32,326
+Estonia,42,35,331
+Estonia,43,70,350
+Estonia,44,79,345
+Estonia,45,63,333
+Estonia,46,62,341
+Estonia,47,56,367
+Estonia,48,32,337
+Estonia,49,29,357
+Estonia,50,32,347
+Estonia,51,25,351
+Estonia,52,29,376
+Estonia,1,17,370
+Estonia,2,24,349
+Estonia,3,26,315
+Estonia,4,31,327
+Estonia,5,26,353
+Estonia,6,54,318
+Estonia,7,49,390
+Estonia,8,63,374
+Estonia,9,65,341
+Estonia,10,63,325
+Estonia,11,39,329
+Estonia,12,47,301
+Estonia,13,29,301
+Estonia,14,26,294
+Estonia,15,22,282
+Estonia,16,15,305
+Estonia,17,8,274
+Estonia,18,9,295
+Estonia,19,8,314
+Estonia,20,5,281
+Estonia,21,0,281
+Estonia,22,13,275
+Estonia,23,0,325
+Estonia,24,12,284
+Estonia,25,2,333
+Estonia,26,3,329
+Ecuador,1,0,1370
+Ecuador,2,0,1566
+Ecuador,3,0,1517
+Ecuador,4,0,1461
+Ecuador,5,0,1361
+Ecuador,6,0,1428
+Ecuador,7,0,1508
+Ecuador,8,0,1479
+Ecuador,9,0,1544
+Ecuador,10,0,1440
+Ecuador,11,2,1471
+Ecuador,12,12,1512
+Ecuador,13,44,3718
+Ecuador,14,122,7102
+Ecuador,15,153,6249
+Ecuador,16,141,4335
+Ecuador,17,102,3383
+Ecuador,18,988,1854
+Ecuador,19,563,2050
+Ecuador,20,609,1702
+Ecuador,21,372,1813
+Ecuador,22,250,1866
+Ecuador,23,263,1820
+Ecuador,24,275,1903
+Ecuador,25,327,1820
+Ecuador,26,206,1929
+Ecuador,27,352,1888
+Ecuador,28,266,2162
+Ecuador,29,266,2266
+Ecuador,30,202,2364
+Ecuador,31,221,2318
+Ecuador,32,186,2292
+Ecuador,33,148,2226
+Ecuador,34,240,1955
+Ecuador,35,245,1834
+Ecuador,36,169,1899
+Ecuador,37,327,1620
+Ecuador,38,187,1693
+Ecuador,39,189,1593
+Ecuador,40,368,1331
+Ecuador,41,544,1284
+Ecuador,42,196,1519
+Ecuador,43,166,1591
+Ecuador,44,131,1549
+Ecuador,45,146,1524
+Ecuador,46,178,1585
+Ecuador,47,193,1616
+Ecuador,48,222,1492
+Ecuador,49,355,1440
+Ecuador,50,97,1568
+Ecuador,51,73,1706
+Ecuador,52,44,1733
+Ecuador,53,67,1846
+Ecuador,1,118,1888
+Ecuador,2,142,2052
+Ecuador,3,304,2038
+Ecuador,4,236,1972
+Ecuador,5,153,2081
+Ecuador,6,309,1905
+Ecuador,7,215,2037
+Ecuador,8,275,2001
+Ecuador,9,228,1993
+Ecuador,10,197,2226
+Ecuador,11,215,2419
+Ecuador,12,287,2424
+Ecuador,13,218,2637
+Ecuador,14,337,2712
+Ecuador,15,410,2733
+Ecuador,16,474,2792
+Ecuador,17,563,2527
+Ecuador,18,482,2415
+Ecuador,19,477,2103
+Ecuador,20,494,1891
+Ecuador,21,352,1831
+Ecuador,22,264,1737
+Ecuador,23,239,1739
+Ecuador,24,245,1688
+Ecuador,25,230,1686
+Ecuador,26,137,1692
+Ecuador,27,170,1715
+Ecuador,28,123,1690
+Ecuador,29,58,1686
+Ecuador,30,837,930
+Ecuador,31,161,1459
+Ecuador,32,178,1411
+Ecuador,33,114,1436
+Ecuador,34,145,1469
+Ecuador,35,120,1450
+Ecuador,36,96,1432
+Ecuador,37,213,1333
+Ecuador,38,86,1411
+Ecuador,39,58,1548
+Ecuador,40,42,1456
+Ecuador,41,81,1469
+Ecuador,42,24,1453
+Ecuador,43,28,1444
+Ecuador,44,9,1460
+Ecuador,45,99,1482
+Ecuador,46,37,1569
+Ecuador,47,109,1482
+Ecuador,48,250,1278
+Ecuador,49,77,1565
+Ecuador,50,36,1611
+Ecuador,51,52,1681
+Ecuador,52,34,1760
+Ecuador,1,26,1914
+Ecuador,2,518,1761
+Ecuador,3,102,2541
+Ecuador,4,185,2325
+Ecuador,5,225,2146
+Ecuador,6,115,1941
+Ecuador,7,251,1574
+Ecuador,8,118,1566
+Ecuador,9,41,1756
+Ecuador,10,52,1563
+Ecuador,11,94,1529
+Ecuador,12,8,1716
+Ecuador,13,3,1672
+Ecuador,14,40,1566
+Ecuador,15,52,1548
+Ecuador,16,68,1546
+Ecuador,17,17,1515
+Ecuador,18,0,1519
+Ecuador,19,9,1582
+Ecuador,20,10,1546
+Ecuador,21,7,1578
+Ecuador,22,21,1572
+Ecuador,23,7,1655
+Ecuador,24,41,1584
+Ecuador,25,12,1651
+Ecuador,26,20,1612
+Ecuador,27,24,1560
+Ecuador,28,20,1605
+Denmark,1,0,1117
+Denmark,2,0,1150
+Denmark,3,0,1071
+Denmark,4,0,1033
+Denmark,5,0,1094
+Denmark,6,0,1079
+Denmark,7,0,1059
+Denmark,8,0,1034
+Denmark,9,0,1025
+Denmark,10,0,1061
+Denmark,11,2,1064
+Denmark,12,11,1129
+Denmark,13,59,1053
+Denmark,14,107,1049
+Denmark,15,94,1049
+Denmark,16,82,996
+Denmark,17,67,1019
+Denmark,18,62,986
+Denmark,19,45,982
+Denmark,20,24,927
+Denmark,21,15,979
+Denmark,22,12,956
+Denmark,23,15,947
+Denmark,24,8,992
+Denmark,25,3,945
+Denmark,26,4,980
+Denmark,27,2,994
+Denmark,28,3,954
+Denmark,29,2,1024
+Denmark,30,2,942
+Denmark,31,2,981
+Denmark,32,2,955
+Denmark,33,4,989
+Denmark,34,1,994
+Denmark,35,2,951
+Denmark,36,3,982
+Denmark,37,4,980
+Denmark,38,7,1075
+Denmark,39,11,963
+Denmark,40,9,987
+Denmark,41,11,927
+Denmark,42,11,997
+Denmark,43,22,1074
+Denmark,44,21,958
+Denmark,45,20,1006
+Denmark,46,17,1080
+Denmark,47,24,1058
+Denmark,48,45,1052
+Denmark,49,56,1049
+Denmark,50,56,1039
+Denmark,51,94,1179
+Denmark,52,139,1073
+Denmark,53,200,1059
+Denmark,1,196,1038
+Denmark,2,205,1008
+Denmark,3,208,1062
+Denmark,4,142,1076
+Denmark,5,91,1115
+Denmark,6,76,1037
+Denmark,7,46,1016
+Denmark,8,23,947
+Denmark,9,18,956
+Denmark,10,12,1040
+Denmark,11,9,959
+Denmark,12,14,1020
+Denmark,13,15,958
+Denmark,14,12,963
+Denmark,15,14,1015
+Denmark,16,20,1040
+Denmark,17,15,999
+Denmark,18,7,1113
+Denmark,19,5,1041
+Denmark,20,6,1044
+Denmark,21,8,1024
+Denmark,22,2,1029
+Denmark,23,7,1046
+Denmark,24,5,995
+Denmark,25,2,1004
+Denmark,26,5,1056
+Denmark,27,2,954
+Denmark,28,3,1072
+Denmark,29,0,1051
+Denmark,30,7,1050
+Denmark,31,3,1131
+Denmark,32,8,1077
+Denmark,33,6,1042
+Denmark,34,14,1049
+Denmark,35,10,1042
+Denmark,36,21,1072
+Denmark,37,17,1033
+Denmark,38,14,1037
+Denmark,39,21,1118
+Denmark,40,6,1058
+Denmark,41,16,1145
+Denmark,42,14,1116
+Denmark,43,15,1123
+Denmark,44,24,1117
+Denmark,45,29,1113
+Denmark,46,43,1089
+Denmark,47,62,1147
+Denmark,48,74,1141
+Denmark,49,68,1197
+Denmark,50,62,1199
+Denmark,51,51,1235
+Denmark,52,100,1175
+Denmark,1,98,1252
+Denmark,2,109,1101
+Denmark,3,114,1065
+Denmark,4,130,1049
+Denmark,5,143,1066
+Denmark,6,187,1094
+Denmark,7,244,1023
+Denmark,8,272,982
+Denmark,9,284,945
+Denmark,10,307,914
+Denmark,11,227,962
+Denmark,12,183,1040
+Denmark,13,177,1020
+Denmark,14,146,1052
+Denmark,15,89,1070
+Denmark,16,87,994
+Denmark,17,86,1041
+Denmark,18,68,1027
+Denmark,19,49,966
+Denmark,20,25,1045
+Denmark,21,38,954
+Denmark,22,26,1027
+Denmark,23,28,1015
+Denmark,24,17,1019
+Denmark,25,17,1091
+Denmark,26,33,1090
+Denmark,27,39,976
+Czech Republic,1,0,2305
+Czech Republic,2,0,2325
+Czech Republic,3,0,2244
+Czech Republic,4,0,2337
+Czech Republic,5,0,2364
+Czech Republic,6,0,2355
+Czech Republic,7,0,2391
+Czech Republic,8,0,2350
+Czech Republic,9,0,2360
+Czech Republic,10,0,2294
+Czech Republic,11,0,2295
+Czech Republic,12,1,2324
+Czech Republic,13,15,2282
+Czech Republic,14,51,2269
+Czech Republic,15,71,2173
+Czech Republic,16,48,2077
+Czech Republic,17,34,2002
+Czech Republic,18,28,2081
+Czech Republic,19,32,1967
+Czech Republic,20,18,2008
+Czech Republic,21,18,1901
+Czech Republic,22,5,1934
+Czech Republic,23,7,2128
+Czech Republic,24,5,1978
+Czech Republic,25,7,2015
+Czech Republic,26,13,2069
+Czech Republic,27,5,2106
+Czech Republic,28,4,1995
+Czech Republic,29,7,1982
+Czech Republic,30,12,2076
+Czech Republic,31,13,2214
+Czech Republic,32,10,2156
+Czech Republic,33,7,2180
+Czech Republic,34,15,2089
+Czech Republic,35,11,2022
+Czech Republic,36,13,2025
+Czech Republic,37,20,2069
+Czech Republic,38,47,2173
+Czech Republic,39,103,2289
+Czech Republic,40,121,2260
+Czech Republic,41,260,2349
+Czech Republic,42,435,2511
+Czech Republic,43,779,2868
+Czech Republic,44,1228,2998
+Czech Republic,45,1429,2809
+Czech Republic,46,1350,2502
+Czech Republic,47,988,2436
+Czech Republic,48,942,2227
+Czech Republic,49,764,2336
+Czech Republic,50,633,2471
+Czech Republic,51,796,2446
+Czech Republic,52,713,2501
+Czech Republic,53,916,2602
+Czech Republic,1,1155,2691
+Czech Republic,2,1223,2528
+Czech Republic,3,1031,2567
+Czech Republic,4,939,2510
+Czech Republic,5,927,2347
+Czech Republic,6,908,2535
+Czech Republic,7,1071,2401
+Czech Republic,8,1125,2506
+Czech Republic,9,1378,2541
+Czech Republic,10,1509,2519
+Czech Republic,11,1441,2394
+Czech Republic,12,1207,2263
+Czech Republic,13,1071,2318
+Czech Republic,14,863,2084
+Czech Republic,15,618,2021
+Czech Republic,16,536,1975
+Czech Republic,17,381,2094
+Czech Republic,18,324,1981
+Czech Republic,19,234,2013
+Czech Republic,20,119,1933
+Czech Republic,21,84,1875
+Czech Republic,22,55,1999
+Czech Republic,23,66,1901
+Czech Republic,24,55,2000
+Czech Republic,25,18,1984
+Czech Republic,26,12,1875
+Czech Republic,27,22,1913
+Czech Republic,28,7,2023
+Czech Republic,29,19,1940
+Czech Republic,30,17,2090
+Czech Republic,31,4,1908
+Czech Republic,32,10,2022
+Czech Republic,33,12,1971
+Czech Republic,34,17,1938
+Czech Republic,35,4,1995
+Czech Republic,36,7,2067
+Czech Republic,37,17,2108
+Czech Republic,38,23,2075
+Czech Republic,39,25,2049
+Czech Republic,40,23,2089
+Czech Republic,41,44,2173
+Czech Republic,42,70,2241
+Czech Republic,43,138,2432
+Czech Republic,44,269,2422
+Czech Republic,45,459,2424
+Czech Republic,46,598,2449
+Czech Republic,47,850,2385
+Czech Republic,48,736,2652
+Czech Republic,49,786,2584
+Czech Republic,50,772,2360
+Czech Republic,51,526,2411
+Czech Republic,52,470,2304
+Czech Republic,1,371,2162
+Czech Republic,2,263,2275
+Czech Republic,3,181,2164
+Czech Republic,4,150,2210
+Czech Republic,5,265,2349
+Czech Republic,6,371,2293
+Czech Republic,7,406,2186
+Czech Republic,8,366,2117
+Czech Republic,9,323,2071
+Czech Republic,10,240,2124
+Czech Republic,11,204,2072
+Czech Republic,12,204,2236
+Czech Republic,13,160,2334
+Czech Republic,14,157,2235
+Czech Republic,15,110,2170
+Czech Republic,16,93,2194
+Czech Republic,17,81,2143
+Czech Republic,18,56,2170
+Czech Republic,19,26,2126
+Czech Republic,20,20,1981
+Czech Republic,21,15,1812
+Cyprus,1,0,152
+Cyprus,2,0,157
+Cyprus,3,0,160
+Cyprus,4,0,157
+Cyprus,5,0,166
+Cyprus,6,0,149
+Cyprus,7,0,114
+Cyprus,8,0,145
+Cyprus,9,0,143
+Cyprus,10,0,119
+Cyprus,11,0,130
+Cyprus,12,0,139
+Cyprus,13,5,134
+Cyprus,14,4,128
+Cyprus,15,1,110
+Cyprus,16,2,120
+Cyprus,17,2,115
+Cyprus,18,1,120
+Cyprus,19,0,111
+Cyprus,20,2,137
+Cyprus,21,0,185
+Cyprus,22,0,108
+Cyprus,23,1,123
+Cyprus,24,0,92
+Cyprus,25,1,100
+Cyprus,26,0,107
+Cyprus,27,0,114
+Cyprus,28,0,110
+Cyprus,29,0,106
+Cyprus,30,0,116
+Cyprus,31,0,117
+Cyprus,32,0,91
+Cyprus,33,1,100
+Cyprus,34,1,107
+Cyprus,35,0,110
+Cyprus,36,0,95
+Cyprus,37,0,125
+Cyprus,38,1,100
+Cyprus,39,0,103
+Cyprus,40,0,113
+Cyprus,41,3,104
+Cyprus,42,0,107
+Cyprus,43,0,114
+Cyprus,44,1,112
+Cyprus,45,1,116
+Cyprus,46,12,116
+Cyprus,47,4,109
+Cyprus,48,5,132
+Cyprus,49,11,130
+Cyprus,50,19,137
+Cyprus,51,12,144
+Cyprus,52,22,120
+Cyprus,53,18,150
+Cyprus,1,18,149
+Cyprus,2,20,104
+Cyprus,3,16,125
+Cyprus,4,14,152
+Cyprus,5,14,141
+Cyprus,6,9,109
+Cyprus,7,9,132
+Cyprus,8,2,128
+Cyprus,9,1,122
+Cyprus,10,6,117
+Cyprus,11,4,131
+Cyprus,12,8,119
+Cyprus,13,11,126
+Cyprus,14,11,140
+Cyprus,15,16,144
+Cyprus,16,10,137
+Cyprus,17,15,132
+Cyprus,18,21,133
+Cyprus,19,12,98
+Cyprus,20,7,91
+Cyprus,21,7,114
+Cyprus,22,3,111
+Cyprus,23,10,100
+Cyprus,24,1,108
+Cyprus,25,0,106
+Cyprus,26,0,139
+Cyprus,27,6,127
+Cyprus,28,4,135
+Cyprus,29,15,133
+Cyprus,30,22,138
+Cyprus,31,18,156
+Cyprus,32,22,148
+Cyprus,33,23,109
+Cyprus,34,21,128
+Cyprus,35,16,127
+Cyprus,36,15,108
+Cyprus,37,10,120
+Cyprus,38,4,114
+Cyprus,39,1,122
+Cyprus,40,7,110
+Cyprus,41,4,125
+Cyprus,42,6,116
+Cyprus,43,6,108
+Cyprus,44,2,100
+Cyprus,45,10,124
+Cyprus,46,3,158
+Cyprus,47,1,133
+Cyprus,48,10,141
+Cyprus,49,9,129
+Cyprus,50,10,154
+Cyprus,51,8,141
+Cyprus,52,11,157
+Cyprus,1,18,162
+Cyprus,2,24,145
+Cyprus,3,31,167
+Cyprus,4,19,153
+Cyprus,5,14,176
+Cyprus,6,40,139
+Cyprus,7,38,129
+Cyprus,8,31,135
+Cyprus,9,23,120
+Cyprus,10,25,111
+Cyprus,11,17,138
+Cyprus,12,13,168
+Cyprus,13,15,173
+Cyprus,14,35,136
+Cyprus,15,11,130
+Cyprus,16,18,97
+Cyprus,17,9,118
+Cyprus,18,12,97
+Cyprus,19,19,86
+Cyprus,20,6,112
+Cyprus,21,2,102
+Cyprus,22,8,73
+Croatia,1,0,1033
+Croatia,2,0,1056
+Croatia,3,0,1016
+Croatia,4,0,1134
+Croatia,5,0,1094
+Croatia,6,0,1059
+Croatia,7,0,1091
+Croatia,8,0,1045
+Croatia,9,0,1021
+Croatia,10,0,1056
+Croatia,11,0,1082
+Croatia,12,1,1093
+Croatia,13,5,1117
+Croatia,14,9,1003
+Croatia,15,8,993
+Croatia,16,24,954
+Croatia,17,8,860
+Croatia,18,24,885
+Croatia,19,11,869
+Croatia,20,5,903
+Croatia,21,4,900
+Croatia,22,4,844
+Croatia,23,1,971
+Croatia,24,3,976
+Croatia,25,0,889
+Croatia,26,0,927
+Croatia,27,6,964
+Croatia,28,6,913
+Croatia,29,1,887
+Croatia,30,16,958
+Croatia,31,13,1046
+Croatia,32,8,948
+Croatia,33,9,917
+Croatia,34,5,916
+Croatia,35,13,959
+Croatia,36,14,917
+Croatia,37,26,974
+Croatia,38,24,951
+Croatia,39,24,939
+Croatia,40,26,1039
+Croatia,41,26,944
+Croatia,42,39,1057
+Croatia,43,74,1062
+Croatia,44,125,1031
+Croatia,45,232,1055
+Croatia,46,255,1106
+Croatia,47,304,1185
+Croatia,48,359,1125
+Croatia,49,462,1251
+Croatia,50,466,1295
+Croatia,51,537,1248
+Croatia,52,494,1187
+Croatia,53,401,1124
+Croatia,1,296,1046
+Croatia,2,248,1110
+Croatia,3,211,1096
+Croatia,4,200,1044
+Croatia,5,142,1062
+Croatia,6,149,1012
+Croatia,7,111,1010
+Croatia,8,97,999
+Croatia,9,64,970
+Croatia,10,87,993
+Croatia,11,96,925
+Croatia,12,120,1022
+Croatia,13,165,1066
+Croatia,14,250,1033
+Croatia,15,254,1035
+Croatia,16,292,1026
+Croatia,17,328,1013
+Croatia,18,287,965
+Croatia,19,239,1016
+Croatia,20,195,911
+Croatia,21,111,936
+Croatia,22,72,1071
+Croatia,23,46,1015
+Croatia,24,42,988
+Croatia,25,26,1090
+Croatia,26,18,964
+Croatia,27,9,993
+Croatia,28,11,980
+Croatia,29,7,902
+Croatia,30,18,1051
+Croatia,31,9,948
+Croatia,32,11,1052
+Croatia,33,18,978
+Croatia,34,24,939
+Croatia,35,45,998
+Croatia,36,70,1022
+Croatia,37,60,1051
+Croatia,38,95,985
+Croatia,39,83,1023
+Croatia,40,94,1005
+Croatia,41,124,1006
+Croatia,42,142,1076
+Croatia,43,182,1143
+Croatia,44,280,1124
+Croatia,45,381,1154
+Croatia,46,422,1141
+Croatia,47,456,1260
+Croatia,48,459,1177
+Croatia,49,401,1167
+Croatia,50,362,1174
+Croatia,51,344,1144
+Croatia,52,284,1194
+Croatia,1,269,1140
+Croatia,2,240,1164
+Croatia,3,289,1162
+Croatia,4,370,1184
+Croatia,5,360,1247
+Croatia,6,336,1076
+Croatia,7,342,1074
+Croatia,8,215,1015
+Croatia,9,184,1030
+Croatia,10,122,1014
+Croatia,11,99,1078
+Croatia,12,85,999
+Croatia,13,81,1012
+Croatia,14,84,987
+Croatia,15,50,1029
+Croatia,16,47,987
+Croatia,17,53,932
+Croatia,18,53,958
+Croatia,19,42,952
+Croatia,20,36,798
+Croatia,21,17,829
+Croatia,22,15,830
+Colombia,1,0,5019
+Colombia,2,0,5057
+Colombia,3,0,4945
+Colombia,4,0,4806
+Colombia,5,0,4656
+Colombia,6,0,4755
+Colombia,7,0,4724
+Colombia,8,0,4723
+Colombia,9,0,4565
+Colombia,10,0,4563
+Colombia,11,0,4475
+Colombia,12,2,4522
+Colombia,13,8,4348
+Colombia,14,25,4185
+Colombia,15,74,4200
+Colombia,16,70,4301
+Colombia,17,65,4284
+Colombia,18,96,4198
+Colombia,19,123,4361
+Colombia,20,111,4499
+Colombia,21,153,4571
+Colombia,22,212,4554
+Colombia,23,320,4866
+Colombia,24,408,4970
+Colombia,25,570,5248
+Colombia,26,941,5217
+Colombia,27,886,5395
+Colombia,28,1243,5547
+Colombia,29,1429,5938
+Colombia,30,1789,5974
+Colombia,31,2125,6005
+Colombia,32,2192,5730
+Colombia,33,2255,5437
+Colombia,34,2219,4975
+Colombia,35,2047,4793
+Colombia,36,2049,4563
+Colombia,37,1512,4913
+Colombia,38,1284,5006
+Colombia,39,1280,4921
+Colombia,40,1224,4829
+Colombia,41,1122,5102
+Colombia,42,1136,5091
+Colombia,43,1184,5164
+Colombia,44,1361,4765
+Colombia,45,1276,5026
+Colombia,46,1240,4929
+Colombia,47,1256,5024
+Colombia,48,1297,5013
+Colombia,49,1224,5023
+Colombia,50,1245,5438
+Colombia,51,1422,5305
+Colombia,52,1696,5536
+Colombia,53,1794,6087
+Colombia,1,2149,5899
+Colombia,2,2517,6011
+Colombia,3,2743,5822
+Colombia,4,2609,5136
+Colombia,5,2010,5084
+Colombia,6,1612,4788
+Colombia,7,1229,4736
+Colombia,8,932,4686
+Colombia,9,737,4880
+Colombia,10,640,4721
+Colombia,11,885,4761
+Colombia,12,927,5080
+Colombia,13,1139,5410
+Colombia,14,1795,5476
+Colombia,15,2439,6073
+Colombia,16,3023,5841
+Colombia,17,3126,5727
+Colombia,18,3377,5592
+Colombia,19,3446,5618
+Colombia,20,3424,5714
+Colombia,21,3558,5827
+Colombia,22,3679,6186
+Colombia,23,3817,6374
+Colombia,24,4156,6399
+Colombia,25,4744,5848
+Colombia,26,4218,6182
+Colombia,27,3930,5761
+Colombia,28,3481,5395
+Colombia,29,2561,5185
+Colombia,30,2130,4993
+Colombia,31,1460,4904
+Colombia,32,1001,4874
+Colombia,33,757,4890
+Colombia,34,595,4768
+Colombia,35,467,4658
+Colombia,36,369,4714
+Colombia,37,248,4768
+Colombia,38,250,5000
+Colombia,39,256,4770
+Colombia,40,222,4941
+Colombia,41,242,4845
+Colombia,42,202,4819
+Colombia,43,214,4835
+Colombia,44,252,4886
+Colombia,45,276,5032
+Colombia,46,284,5015
+Colombia,47,344,4945
+Colombia,48,343,5162
+Colombia,49,327,5289
+Colombia,50,351,5143
+Colombia,51,303,5580
+Colombia,52,265,5681
+Colombia,1,312,6063
+Colombia,2,658,6395
+Colombia,3,1244,6621
+Colombia,4,1839,6425
+Colombia,5,1678,6030
+Colombia,6,1358,5514
+Colombia,7,991,5100
+Colombia,8,587,4849
+Colombia,9,398,4775
+Colombia,10,206,4847
+Colombia,11,155,4802
+Colombia,12,121,4837
+Colombia,13,87,4789
+Colombia,14,59,4849
+Colombia,15,30,4740
+Colombia,16,29,4949
+Colombia,17,19,4896
+Colombia,18,12,5139
+Colombia,19,12,5101
+Colombia,20,12,5091
+Colombia,21,21,5121
+Colombia,22,13,5255
+Colombia,23,27,5295
+Colombia,24,24,5304
+Colombia,25,52,5289
+Colombia,26,100,5248
+Colombia,27,132,5713
+Chile,1,0,2108
+Chile,2,0,2053
+Chile,3,0,2057
+Chile,4,0,1964
+Chile,5,0,1970
+Chile,6,0,1994
+Chile,7,0,1909
+Chile,8,0,1899
+Chile,9,0,1884
+Chile,10,0,1885
+Chile,11,0,1928
+Chile,12,1,2007
+Chile,13,6,2000
+Chile,14,27,2054
+Chile,15,46,1964
+Chile,16,53,2034
+Chile,17,56,2039
+Chile,18,71,2012
+Chile,19,52,2290
+Chile,20,138,2300
+Chile,21,268,2665
+Chile,22,336,3058
+Chile,23,583,3316
+Chile,24,1686,2297
+Chile,25,1156,2576
+Chile,26,1030,2489
+Chile,27,799,2271
+Chile,28,671,2296
+Chile,29,467,2347
+Chile,30,609,2089
+Chile,31,496,2157
+Chile,32,469,2047
+Chile,33,375,2056
+Chile,34,400,2196
+Chile,35,392,2087
+Chile,36,348,2047
+Chile,37,357,2048
+Chile,38,337,2064
+Chile,39,355,2009
+Chile,40,338,2002
+Chile,41,339,2057
+Chile,42,317,1990
+Chile,43,309,1995
+Chile,44,303,1965
+Chile,45,296,1943
+Chile,46,276,1845
+Chile,47,250,1934
+Chile,48,287,1916
+Chile,49,272,1902
+Chile,50,258,1929
+Chile,51,268,1887
+Chile,52,289,2002
+Chile,53,324,1915
+Chile,1,329,2119
+Chile,2,381,2058
+Chile,3,456,2246
+Chile,4,519,2041
+Chile,5,522,2113
+Chile,6,567,1939
+Chile,7,501,2001
+Chile,8,530,2077
+Chile,9,505,2157
+Chile,10,597,2059
+Chile,11,605,1945
+Chile,12,475,2266
+Chile,13,890,1943
+Chile,14,702,2147
+Chile,15,831,2068
+Chile,16,679,1985
+Chile,17,705,2082
+Chile,18,657,2078
+Chile,19,614,2153
+Chile,20,686,2250
+Chile,21,650,2431
+Chile,22,769,2248
+Chile,23,770,2362
+Chile,24,806,2376
+Chile,25,785,2411
+Chile,26,805,2522
+Chile,27,774,2346
+Chile,28,637,2406
+Chile,29,512,2356
+Chile,30,502,2247
+Chile,31,488,2152
+Chile,32,364,2264
+Chile,33,270,2343
+Chile,34,235,2127
+Chile,35,205,2134
+Chile,36,142,2255
+Chile,37,127,2262
+Chile,38,81,2280
+Chile,39,54,2196
+Chile,40,283,2044
+Chile,41,45,2317
+Chile,42,60,2162
+Chile,43,88,2317
+Chile,44,105,2143
+Chile,45,113,2282
+Chile,46,142,2220
+Chile,47,196,2209
+Chile,48,188,2351
+Chile,49,185,2198
+Chile,50,178,2248
+Chile,51,170,2249
+Chile,52,128,2292
+Chile,1,110,2369
+Chile,2,122,2365
+Chile,3,118,2300
+Chile,4,172,2488
+Chile,5,303,2606
+Chile,6,571,2461
+Chile,7,789,2452
+Chile,8,853,2412
+Chile,9,877,2223
+Chile,10,802,2071
+Chile,11,639,2036
+Chile,12,416,2140
+Chile,13,369,2112
+Chile,14,291,2177
+Chile,15,222,2029
+Chile,16,112,2306
+Chile,17,164,2118
+Chile,18,90,2349
+Chile,19,93,2417
+Chile,20,80,2410
+Chile,21,75,2387
+Chile,22,96,2790
+Chile,23,122,2635
+Chile,24,156,2704
+Chile,25,165,2631
+Chile,26,173,2672
+Chile,27,229,2621
+Canada,1,0,6220
+Canada,2,0,6210
+Canada,3,0,6135
+Canada,4,0,6165
+Canada,5,0,5845
+Canada,6,0,5900
+Canada,7,0,5735
+Canada,8,0,5680
+Canada,9,0,5775
+Canada,10,0,5770
+Canada,11,1,5679
+Canada,12,17,5863
+Canada,13,65,5865
+Canada,14,277,6028
+Canada,15,626,5964
+Canada,16,951,5674
+Canada,17,1175,5765
+Canada,18,1300,5600
+Canada,19,1164,5276
+Canada,20,876,5244
+Canada,21,677,5248
+Canada,22,643,5242
+Canada,23,380,5170
+Canada,24,243,4957
+Canada,25,159,5146
+Canada,26,126,5169
+Canada,27,84,5071
+Canada,28,74,5321
+Canada,29,58,5217
+Canada,30,35,5250
+Canada,31,54,5171
+Canada,32,32,5213
+Canada,33,37,5378
+Canada,34,43,5372
+Canada,35,40,5210
+Canada,36,22,5428
+Canada,37,26,5304
+Canada,38,52,5413
+Canada,39,52,5693
+Canada,40,213,5492
+Canada,41,142,5638
+Canada,42,144,5581
+Canada,43,193,5557
+Canada,44,246,5654
+Canada,45,311,5949
+Canada,46,421,5724
+Canada,47,521,5619
+Canada,48,561,5744
+Canada,49,633,5867
+Canada,50,764,5801
+Canada,51,831,5614
+Canada,52,815,5840
+Canada,53,839,5936
+Canada,1,1027,5768
+Canada,2,1008,5762
+Canada,3,1024,5726
+Canada,4,962,5703
+Canada,5,760,5715
+Canada,6,526,5574
+Canada,7,402,5663
+Canada,8,330,5645
+Canada,9,253,5732
+Canada,10,221,5569
+Canada,11,209,5416
+Canada,12,209,5531
+Canada,13,198,5477
+Canada,14,237,5633
+Canada,15,304,5431
+Canada,16,336,5429
+Canada,17,334,5636
+Canada,18,307,5603
+Canada,19,340,5465
+Canada,20,295,5540
+Canada,21,275,5090
+Canada,22,234,5381
+Canada,23,202,5053
+Canada,24,140,5175
+Canada,25,160,5090
+Canada,26,134,5981
+Canada,27,80,5285
+Canada,28,65,5260
+Canada,29,51,5304
+Canada,30,54,5411
+Canada,31,65,5435
+Canada,32,38,5367
+Canada,33,90,5585
+Canada,34,108,5472
+Canada,35,118,5647
+Canada,36,170,5900
+Canada,37,198,5777
+Canada,38,251,5704
+Canada,39,310,5735
+Canada,40,250,5755
+Canada,41,287,5923
+Canada,42,263,5922
+Canada,43,219,5806
+Canada,44,175,5955
+Canada,45,185,6000
+Canada,46,167,5798
+Canada,47,137,5898
+Canada,48,138,6032
+Canada,49,144,5891
+Canada,50,130,6105
+Canada,51,112,6223
+Canada,52,187,6108
+Canada,1,359,6451
+Canada,2,766,6699
+Canada,3,1039,6741
+Canada,4,1143,6357
+Canada,5,989,6221
+Canada,6,845,6015
+Canada,7,532,5843
+Canada,8,494,5636
+Bulgaria,1,0,2111
+Bulgaria,2,0,2279
+Bulgaria,3,0,2185
+Bulgaria,4,0,2393
+Bulgaria,5,0,2439
+Bulgaria,6,0,2350
+Bulgaria,7,0,2310
+Bulgaria,8,0,2161
+Bulgaria,9,0,2183
+Bulgaria,10,0,2049
+Bulgaria,11,2,2073
+Bulgaria,12,1,2043
+Bulgaria,13,5,2077
+Bulgaria,14,12,2029
+Bulgaria,15,9,2021
+Bulgaria,16,13,2011
+Bulgaria,17,14,1967
+Bulgaria,18,17,1874
+Bulgaria,19,18,1895
+Bulgaria,20,17,2070
+Bulgaria,21,22,1876
+Bulgaria,22,10,1789
+Bulgaria,23,20,1902
+Bulgaria,24,14,1937
+Bulgaria,25,25,1905
+Bulgaria,26,20,1884
+Bulgaria,27,27,2111
+Bulgaria,28,22,2021
+Bulgaria,29,32,1814
+Bulgaria,30,40,1947
+Bulgaria,31,48,2113
+Bulgaria,32,59,2000
+Bulgaria,33,51,1924
+Bulgaria,34,47,1864
+Bulgaria,35,68,1869
+Bulgaria,36,63,1883
+Bulgaria,37,44,1868
+Bulgaria,38,41,1808
+Bulgaria,39,35,1809
+Bulgaria,40,48,1938
+Bulgaria,41,48,2036
+Bulgaria,42,94,2063
+Bulgaria,43,108,2264
+Bulgaria,44,204,2528
+Bulgaria,45,367,2869
+Bulgaria,46,465,3483
+Bulgaria,47,750,3657
+Bulgaria,48,934,3805
+Bulgaria,49,983,3770
+Bulgaria,50,891,3479
+Bulgaria,51,921,3024
+Bulgaria,52,555,2687
+Bulgaria,53,514,2451
+Bulgaria,1,448,2180
+Bulgaria,2,357,2132
+Bulgaria,3,337,2188
+Bulgaria,4,225,2239
+Bulgaria,5,286,2102
+Bulgaria,6,293,2078
+Bulgaria,7,230,2264
+Bulgaria,8,337,2252
+Bulgaria,9,423,2332
+Bulgaria,10,671,2349
+Bulgaria,11,734,2657
+Bulgaria,12,691,2995
+Bulgaria,13,879,3165
+Bulgaria,14,829,2958
+Bulgaria,15,777,2961
+Bulgaria,16,712,2725
+Bulgaria,17,585,2554
+Bulgaria,18,437,2364
+Bulgaria,19,330,2222
+Bulgaria,20,237,2125
+Bulgaria,21,166,2018
+Bulgaria,22,158,1940
+Bulgaria,23,80,1974
+Bulgaria,24,90,1940
+Bulgaria,25,37,2254
+Bulgaria,26,57,2082
+Bulgaria,27,56,2043
+Bulgaria,28,34,2057
+Bulgaria,29,20,1916
+Bulgaria,30,21,2083
+Bulgaria,31,40,2202
+Bulgaria,32,89,2154
+Bulgaria,33,131,1954
+Bulgaria,34,256,2092
+Bulgaria,35,384,2095
+Bulgaria,36,407,2251
+Bulgaria,37,506,2394
+Bulgaria,38,461,2315
+Bulgaria,39,549,2293
+Bulgaria,40,618,2455
+Bulgaria,41,618,2785
+Bulgaria,42,799,3042
+Bulgaria,43,926,3123
+Bulgaria,44,1075,3096
+Bulgaria,45,1205,2887
+Bulgaria,46,974,3013
+Bulgaria,47,848,2809
+Bulgaria,48,751,2740
+Bulgaria,49,684,2626
+Bulgaria,50,546,2586
+Bulgaria,51,492,2608
+Bulgaria,52,453,2619
+Bulgaria,1,529,2615
+Bulgaria,2,530,2599
+Bulgaria,3,578,2671
+Bulgaria,4,496,2964
+Bulgaria,5,610,3007
+Bulgaria,6,634,2983
+Bulgaria,7,638,2784
+Bulgaria,8,440,2572
+Bulgaria,9,350,2337
+Bulgaria,10,266,2366
+Bulgaria,11,184,2228
+Bulgaria,12,155,2313
+Bulgaria,13,131,2230
+Bulgaria,14,132,2131
+Bulgaria,15,84,2021
+Bulgaria,16,70,1929
+Bulgaria,17,64,2019
+Bulgaria,18,55,1782
+Bulgaria,19,75,1891
+Bulgaria,20,45,1867
+Bulgaria,21,41,1865
+Bulgaria,22,29,1799
+Britain,1,0,13767
+Britain,2,0,16018
+Britain,3,0,14723
+Britain,4,0,13426
+Britain,5,0,13123
+Britain,6,0,12532
+Britain,7,0,12416
+Britain,8,0,12299
+Britain,9,0,12333
+Britain,10,1,12411
+Britain,11,9,12530
+Britain,12,184,11929
+Britain,13,979,11529
+Britain,14,3349,15216
+Britain,15,6303,14626
+Britain,16,6137,18554
+Britain,17,5883,18420
+Britain,18,4572,15486
+Britain,19,3524,10904
+Britain,20,2444,13946
+Britain,21,2018,11821
+Britain,22,1873,9395
+Britain,23,1192,10914
+Britain,24,810,10492
+Britain,25,544,10150
+Britain,26,474,9808
+Britain,27,332,10080
+Britain,28,238,9704
+Britain,29,156,9940
+Britain,30,113,10047
+Britain,31,101,10161
+Britain,32,81,10155
+Britain,33,88,10510
+Britain,34,48,10942
+Britain,35,81,10284
+Britain,36,51,8972
+Britain,37,77,11099
+Britain,38,118,10678
+Britain,39,204,10686
+Britain,40,332,11137
+Britain,41,411,10963
+Britain,42,750,11196
+Britain,43,1142,11175
+Britain,44,1658,10859
+Britain,45,2246,11202
+Britain,46,2829,11169
+Britain,47,2982,11309
+Britain,48,3265,10868
+Britain,49,3066,10920
+Britain,50,2889,11053
+Britain,51,3035,11623
+Britain,52,3662,9373
+Britain,53,3932,7648
+Britain,1,5719,14320
+Britain,2,7469,12566
+Britain,3,8688,12021
+Britain,4,8392,12097
+Britain,5,6896,12264
+Britain,6,5023,12125
+Britain,7,3635,11948
+Britain,8,2496,11794
+Britain,9,1846,11269
+Britain,10,1082,11389
+Britain,11,683,10995
+Britain,12,489,10960
+Britain,13,301,9160
+Britain,14,224,10177
+Britain,15,185,10289
+Britain,16,160,11198
+Britain,17,132,10891
+Britain,18,81,9129
+Britain,19,70,11496
+Britain,20,42,11179
+Britain,21,58,10933
+Britain,22,55,9060
+Britain,23,61,11558
+Britain,24,72,10754
+Britain,25,110,9954
+Britain,26,123,10052
+Britain,27,176,10961
+Britain,28,277,10778
+Britain,29,402,10774
+Britain,30,539,11044
+Britain,31,599,11003
+Britain,32,624,11178
+Britain,33,688,10839
+Britain,34,757,10939
+Britain,35,799,9518
+Britain,36,948,11594
+Britain,37,997,11645
+Britain,38,1001,11262
+Britain,39,806,11339
+Britain,40,752,11753
+Britain,41,839,12020
+Britain,42,949,11995
+Britain,43,1067,11582
+Britain,44,1196,12023
+Britain,45,1090,12701
+Britain,46,1038,12717
+Britain,47,877,12289
+Britain,48,832,12538
+Britain,49,834,12790
+Britain,50,793,13329
+Britain,51,814,13883
+Britain,52,768,9037
+Britain,1,1122,12787
+Britain,2,1875,13398
+Britain,3,1880,12560
+Britain,4,1832,12166
+Britain,5,1551,11934
+Britain,6,1370,11801
+Britain,7,1030,11718
+Britain,8,849,11818
+Britain,9,785,11970
+Britain,10,732,12055
+Britain,11,774,11721
+Britain,12,945,11413
+Britain,13,1118,10332
+Britain,14,1248,11030
+Britain,15,1644,9661
+Britain,16,1958,10238
+Britain,17,1563,12511
+Britain,18,1303,10012
+Britain,19,1041,12573
+Britain,20,728,12318
+Britain,21,488,11801
+Britain,22,284,7609
+Britain,23,468,12823
+Britain,24,320,12008
+Britain,25,392,11902
+Britain,26,491,11349
+Belgium,1,0,2234
+Belgium,2,0,2388
+Belgium,3,0,2314
+Belgium,4,0,2204
+Belgium,5,0,2356
+Belgium,6,0,2169
+Belgium,7,0,2307
+Belgium,8,0,2301
+Belgium,9,0,2249
+Belgium,10,0,2212
+Belgium,11,4,2230
+Belgium,12,71,2483
+Belgium,13,356,2842
+Belgium,14,1016,3005
+Belgium,15,2153,2139
+Belgium,16,2083,1620
+Belgium,17,1411,1628
+Belgium,18,750,1679
+Belgium,19,812,1578
+Belgium,20,396,1646
+Belgium,21,228,1854
+Belgium,22,187,1796
+Belgium,23,128,1671
+Belgium,24,60,1839
+Belgium,25,41,1781
+Belgium,26,36,1932
+Belgium,27,39,1729
+Belgium,28,11,1671
+Belgium,29,18,1841
+Belgium,30,21,1789
+Belgium,31,24,1923
+Belgium,32,27,2019
+Belgium,33,67,2815
+Belgium,34,53,2162
+Belgium,35,19,1860
+Belgium,36,13,1878
+Belgium,37,18,1807
+Belgium,38,23,1981
+Belgium,39,32,1884
+Belgium,40,84,1836
+Belgium,41,127,1933
+Belgium,42,222,1935
+Belgium,43,397,2232
+Belgium,44,927,2355
+Belgium,45,1318,2371
+Belgium,46,1366,2066
+Belgium,47,1197,1982
+Belgium,48,929,1964
+Belgium,49,773,1931
+Belgium,50,631,2149
+Belgium,51,675,2061
+Belgium,52,574,2043
+Belgium,53,501,1944
+Belgium,1,377,2104
+Belgium,2,357,2051
+Belgium,3,344,2099
+Belgium,4,313,2133
+Belgium,5,297,1986
+Belgium,6,273,1958
+Belgium,7,241,2081
+Belgium,8,174,1974
+Belgium,9,184,1837
+Belgium,10,180,1991
+Belgium,11,266,1842
+Belgium,12,190,1925
+Belgium,13,272,1959
+Belgium,14,304,1915
+Belgium,15,274,1900
+Belgium,16,277,1947
+Belgium,17,267,1943
+Belgium,18,260,2004
+Belgium,19,158,1923
+Belgium,20,133,1897
+Belgium,21,98,1899
+Belgium,22,93,1896
+Belgium,23,55,1826
+Belgium,24,48,1921
+Belgium,25,24,1758
+Belgium,26,25,1903
+Belgium,27,13,1812
+Belgium,28,11,1901
+Belgium,29,11,1993
+Belgium,30,21,1867
+Belgium,31,27,1853
+Belgium,32,19,1878
+Belgium,33,33,1809
+Belgium,34,40,1824
+Belgium,35,37,1922
+Belgium,36,57,1961
+Belgium,37,43,1857
+Belgium,38,57,1833
+Belgium,39,58,1887
+Belgium,40,63,1995
+Belgium,41,72,2155
+Belgium,42,99,2240
+Belgium,43,148,2185
+Belgium,44,137,2148
+Belgium,45,190,2196
+Belgium,46,247,2161
+Belgium,47,272,2220
+Belgium,48,327,2407
+Belgium,49,337,2275
+Belgium,50,391,2152
+Belgium,51,254,2183
+Belgium,52,182,2273
+Belgium,1,128,2224
+Belgium,2,153,2067
+Belgium,3,168,2199
+Belgium,4,177,2346
+Belgium,5,270,2363
+Belgium,6,397,2154
+Belgium,7,296,2149
+Belgium,8,201,2096
+Belgium,9,138,2025
+Belgium,10,149,2267
+Belgium,11,121,2265
+Belgium,12,157,2236
+Belgium,13,140,2362
+Belgium,14,171,2363
+Belgium,15,168,2263
+Belgium,16,154,2176
+Belgium,17,120,2078
+Belgium,18,113,2130
+Belgium,19,61,1981
+Belgium,20,62,2022
+Belgium,21,52,1844
+Belgium,22,41,1988
+Belgium,23,48,1863
+Belgium,24,40,2016
+Austria,1,0,1614
+Austria,2,0,1702
+Austria,3,0,1797
+Austria,4,0,1779
+Austria,5,0,1947
+Austria,6,0,1682
+Austria,7,0,1721
+Austria,8,0,1719
+Austria,9,0,1768
+Austria,10,0,1744
+Austria,11,1,1717
+Austria,12,19,1817
+Austria,13,81,1684
+Austria,14,122,1706
+Austria,15,164,1629
+Austria,16,115,1589
+Austria,17,90,1498
+Austria,18,61,1419
+Austria,19,35,1485
+Austria,20,21,1468
+Austria,21,19,1462
+Austria,22,13,1405
+Austria,23,17,1473
+Austria,24,12,1449
+Austria,25,18,1395
+Austria,26,17,1421
+Austria,27,11,1550
+Austria,28,5,1378
+Austria,29,10,1433
+Austria,30,11,1441
+Austria,31,14,1513
+Austria,32,14,1419
+Austria,33,11,1596
+Austria,34,12,1465
+Austria,35,10,1490
+Austria,36,13,1510
+Austria,37,13,1555
+Austria,38,21,1548
+Austria,39,31,1501
+Austria,40,36,1551
+Austria,41,64,1560
+Austria,42,64,1555
+Austria,43,112,1668
+Austria,44,215,1681
+Austria,45,354,1652
+Austria,46,571,1716
+Austria,47,729,1685
+Austria,48,822,1620
+Austria,49,958,1592
+Austria,50,872,1607
+Austria,51,733,1531
+Austria,52,645,1486
+Austria,53,550,1454
+Austria,1,455,1507
+Austria,2,437,1522
+Austria,3,405,1604
+Austria,4,390,1560
+Austria,5,323,1545
+Austria,6,270,1489
+Austria,7,219,1503
+Austria,8,227,1442
+Austria,9,198,1392
+Austria,10,210,1542
+Austria,11,244,1450
+Austria,12,220,1440
+Austria,13,249,1529
+Austria,14,264,1401
+Austria,15,248,1450
+Austria,16,220,1472
+Austria,17,176,1524
+Austria,18,179,1481
+Austria,19,119,1488
+Austria,20,79,1445
+Austria,21,75,1417
+Austria,22,56,1553
+Austria,23,38,1527
+Austria,24,30,1575
+Austria,25,27,1628
+Austria,26,21,1490
+Austria,27,15,1456
+Austria,28,13,1447
+Austria,29,13,1571
+Austria,30,12,1523
+Austria,31,23,1438
+Austria,32,13,1617
+Austria,33,13,1611
+Austria,34,28,1548
+Austria,35,37,1518
+Austria,36,59,1573
+Austria,37,68,1516
+Austria,38,77,1504
+Austria,39,76,1600
+Austria,40,77,1530
+Austria,41,87,1549
+Austria,42,113,1614
+Austria,43,137,1759
+Austria,44,192,1754
+Austria,45,288,1775
+Austria,46,386,1734
+Austria,47,463,1695
+Austria,48,483,1726
+Austria,49,443,1690
+Austria,50,305,1633
+Austria,51,197,1657
+Austria,52,156,1708
+Austria,1,86,1670
+Austria,2,73,1606
+Austria,3,71,1746
+Austria,4,103,1663
+Austria,5,122,1670
+Austria,6,165,1691
+Austria,7,197,1719
+Austria,8,205,1642
+Austria,9,226,1731
+Austria,10,193,1655
+Austria,11,225,1693
+Austria,12,280,1719
+Austria,13,290,1664
+Austria,14,227,1736
+Austria,15,179,1634
+Austria,16,107,1546
+Austria,17,95,1591
+Austria,18,60,1589
+Austria,19,32,1539
+Austria,20,28,1565
+Austria,21,40,1480
+Austria,22,43,1521
+Austria,23,25,1554
+Austria,24,21,1601
+Austria,25,31,1621
+Austria,26,42,1579
+Australia,1,0,2926
+Australia,2,0,2902
+Australia,3,0,2914
+Australia,4,0,3007
+Australia,5,0,2910
+Australia,6,0,2917
+Australia,7,0,3030
+Australia,8,0,3059
+Australia,9,1,3089
+Australia,10,2,2994
+Australia,11,0,2976
+Australia,12,4,3091
+Australia,13,9,3134
+Australia,14,19,3198
+Australia,15,25,3115
+Australia,16,7,3077
+Australia,17,16,3028
+Australia,18,12,3020
+Australia,19,2,3159
+Australia,20,2,3148
+Australia,21,3,3211
+Australia,22,1,3177
+Australia,23,0,3113
+Australia,24,0,3128
+Australia,25,0,3064
+Australia,26,2,3056
+Australia,27,2,3216
+Australia,28,2,3195
+Australia,29,15,3189
+Australia,30,38,3294
+Australia,31,60,3293
+Australia,32,92,3306
+Australia,33,108,3370
+Australia,34,96,3214
+Australia,35,135,3148
+Australia,36,110,3180
+Australia,37,54,3185
+Australia,38,35,3065
+Australia,39,24,3121
+Australia,40,19,3164
+Australia,41,4,3038
+Australia,42,7,2996
+Australia,43,0,2964
+Australia,44,2,3034
+Australia,45,0,3034
+Australia,46,0,3132
+Australia,47,0,3043
+Australia,48,1,2956
+Australia,49,0,3106
+Australia,50,0,3007
+Australia,51,0,3047
+Australia,52,1,3066
+Australia,53,0,2987
+Australia,1,0,3029
+Australia,2,0,2950
+Australia,3,0,3148
+Australia,4,0,2944
+Australia,5,0,3068
+Australia,6,0,2962
+Australia,7,0,2934
+Australia,8,0,3048
+Australia,9,0,3069
+Australia,10,0,3117
+Australia,11,0,3084
+Australia,12,0,3038
+Australia,13,0,3094
+Australia,14,0,2954
+Australia,15,1,3250
+Australia,16,0,3242
+Australia,17,0,3272
+Australia,18,0,3362
+Australia,19,0,3362
+Australia,20,0,3358
+Australia,21,0,3507
+Australia,22,0,3371
+Australia,23,0,3556
+Australia,24,0,3487
+Australia,25,0,3451
+Australia,26,0,3463
+Australia,27,1,3538
+Australia,28,3,3582
+Australia,29,4,3608
+Australia,30,8,3656
+Australia,31,15,3449
+Australia,32,27,3399
+Australia,33,18,3476
+Australia,34,19,3390
+Australia,35,41,3440
+Australia,36,54,3348
+Australia,37,69,3409
+Australia,38,78,3275
+Australia,39,101,3412
+Australia,40,102,3279
+Australia,41,95,3243
+Australia,42,105,3234
+Australia,43,95,3208
+Australia,44,84,3201
+Australia,45,61,3091
+Australia,46,60,3243
+Australia,47,49,3183
+Australia,48,59,3174
+Australia,49,50,3093
+Australia,50,40,3181
+Australia,51,50,3274
+Australia,52,70,3095
+Australia,1,121,3176
+Australia,2,305,3392
+Australia,3,456,3393
+Australia,4,612,3153
+Australia,5,488,3204
+Australia,6,356,3162
+Australia,7,325,3048
+Australia,8,242,3116
+Australia,9,254,3058
+Australia,10,165,2967
+Australia,11,146,3118
+Australia,12,161,3089
